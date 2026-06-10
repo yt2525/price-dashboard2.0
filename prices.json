@@ -1,0 +1,56 @@
+{
+  "generated": "2026-06-10T04:25:01.547699+00:00",
+  "source": "scrape.py",
+  "prices": {
+    "PlayStation": {
+      "PlayStation™Store USD75 Gift Cards (US)": {
+        "Codashop": 10.0,
+        "Eneba": 0.23,
+        "MooGold": 96.1,
+        "G2G": 10.0,
+        "OG": 10.0,
+        "Kinguin": 10.92,
+        "Seagm": 4.92
+      },
+      "PlayStation™Store USD150 Gift Cards (US)": {
+        "Eneba": 0.23,
+        "MooGold": 96.1,
+        "G2G": 10.0,
+        "OG": 10.0,
+        "Kinguin": 21.84,
+        "Seagm": 4.92
+      },
+      "PlayStation™Store USD250 Gift Cards (US)": {
+        "G2A": 1.0,
+        "OG": 10.0,
+        "Eneba": 0.23,
+        "MooGold": 96.1,
+        "Kinguin": 33.19,
+        "G2G": 10.0,
+        "Seagm": 4.92
+      },
+      "PlayStation™Store USD100 Gift Cards (US)": {
+        "Eneba": 0.23,
+        "MooGold": 96.1,
+        "G2G": 10.0,
+        "OG": 10.0,
+        "Kinguin": 14.43,
+        "Seagm": 4.92,
+        "Codashop": 10.0
+      },
+      "PlayStation™Store USD200 Gift Cards (US)": {
+        "Eneba": 0.23,
+        "MooGold": 96.1,
+        "G2G": 10.0,
+        "OG": 10.0,
+        "Kinguin": 30.79,
+        "Seagm": 4.92
+      },
+      "PlayStation™Store USD50 Gift Cards (US)": {
+        "G2G": 10.0,
+        "OG": 10.0,
+        "Kinguin": 7.12
+      }
+    }
+  }
+}
