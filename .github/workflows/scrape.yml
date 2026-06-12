@@ -34,11 +34,11 @@ jobs:
           pip install playwright
           python -m playwright install --with-deps chromium
 
-      - name: Run scraper (all products except OG/G2G)
-        # OG and G2G are Cloudflare/IP-blocked on GitHub's datacenter runners,
-        # so they're scraped locally (residential IP) and merged in via git push.
-        # --merge preserves the OG/G2G entries the local runner pushed.
-        run: python scrape.py --skip-comps OG,G2G --merge
+      - name: Run scraper (all products)
+        # G2G and OffGamers read prices from their JSON APIs (sls.g2g.com /
+        # sls.offgamers.com), which work on datacenter IPs — so the whole catalog
+        # runs here in the cloud, no local/residential machine needed.
+        run: python scrape.py
 
       - name: Commit prices.json
         run: |
