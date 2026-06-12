@@ -1,9 +1,12 @@
 name: Scrape competitor prices
 
+# Runs Playwright on GitHub's (US-based) runners and commits prices.json.
+# Always scrapes ALL brands/products (no inputs).
+
 on:
   workflow_dispatch:
   # schedule:
-  #   - cron: "0 */6 * * *"
+  #   - cron: "0 */6 * * *"   # uncomment to run automatically every 6 hours
 
 permissions:
   contents: write
@@ -31,8 +34,11 @@ jobs:
           pip install playwright
           python -m playwright install --with-deps chromium
 
-      - name: Run scraper (all products)
-        run: python scrape.py
+      - name: Run scraper (all products except OG/G2G)
+        # OG and G2G are Cloudflare/IP-blocked on GitHub's datacenter runners,
+        # so they're scraped locally (residential IP) and merged in via git push.
+        # --merge preserves the OG/G2G entries the local runner pushed.
+        run: python scrape.py --skip-comps OG,G2G --merge
 
       - name: Commit prices.json
         run: |
