@@ -1,6 +1,6 @@
 {
-  "ok": 1310,
-  "failed": 302,
+  "ok": 1343,
+  "failed": 269,
   "errors": [
     "G2A https://www.g2a.com/roblox-card-200-usd-roblox-key-global-i1 :: Error",
     "G2A https://www.g2a.com/roblox-card-200-usd-roblox-key-global-i1 :: Error",
@@ -23,8 +23,8 @@
     "G2A https://www.g2a.com/amazon-gift-card-20-usd-amazon-united-st :: Error",
     "G2A https://www.g2a.com/amazon-gift-card-20-usd-amazon-united-st :: Error",
     "G2A https://www.g2a.com/roblox-card-10-usd-roblox-key-global-i10 :: Error",
-    "G2A https://www.g2a.com/roblox-card-10-usd-roblox-key-global-i10 :: Error",
     "G2A https://www.g2a.com/apple-itunes-gift-card-50-usd-itunes-key :: Error",
+    "G2A https://www.g2a.com/roblox-card-10-usd-roblox-key-global-i10 :: Error",
     "G2A https://www.g2a.com/apple-itunes-gift-card-50-usd-itunes-key :: Error",
     "G2A https://www.g2a.com/amazon-gift-card-15-usd-amazon-united-st :: Error",
     "G2A https://www.g2a.com/amazon-gift-card-15-usd-amazon-united-st :: Error",
@@ -53,5 +53,5 @@
     "G2A https://www.g2a.com/wuthering-waves-lunite-subscription-glob :: Error",
     "G2A https://www.g2a.com/wuthering-waves-lunite-subscription-glob :: Error"
   ],
-  "elapsed_sec": 2567.3
+  "elapsed_sec": 2494.8
 }
