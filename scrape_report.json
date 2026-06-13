@@ -1,6 +1,6 @@
 {
-  "ok": 1340,
-  "failed": 272,
+  "ok": 1337,
+  "failed": 275,
   "errors": [
     "G2A https://www.g2a.com/apple-gift-card-150-usd-apple-key-united :: Error",
     "G2A https://www.g2a.com/apple-gift-card-150-usd-apple-key-united :: Error",
@@ -11,20 +11,20 @@
     "G2A https://www.g2a.com/apple-gift-card-100-usd-apple-key-united :: Error",
     "G2A https://www.g2a.com/apple-gift-card-100-usd-apple-key-united :: Error",
     "G2A https://www.g2a.com/capcut-pro-1-month-capcut-account-global :: Error",
+    "G2A https://www.g2a.com/flexepin-gift-card-50-cad-flexepin-key-c :: Error",
     "G2A https://www.g2a.com/capcut-pro-1-month-capcut-account-global :: Error",
     "G2A https://www.g2a.com/flexepin-gift-card-50-cad-flexepin-key-c :: Error",
-    "G2A https://www.g2a.com/flexepin-gift-card-50-cad-flexepin-key-c :: Error",
-    "G2A https://www.g2a.com/youtube-premium-1-month-youtube-account- :: Error",
     "G2A https://www.g2a.com/youtube-premium-1-month-youtube-account- :: Error",
     "G2A https://www.g2a.com/apple-gift-card-50-usd-apple-key-united- :: Error",
+    "G2A https://www.g2a.com/youtube-premium-1-month-youtube-account- :: Error",
     "G2A https://www.g2a.com/apple-gift-card-50-usd-apple-key-united- :: Error",
     "G2A https://www.g2a.com/flexepin-gift-card-30-cad-flexepin-key-c :: Error",
     "G2A https://www.g2a.com/flexepin-gift-card-30-cad-flexepin-key-c :: Error",
     "G2A https://www.g2a.com/apple-gift-card-40-usd-apple-key-united- :: Error",
     "G2A https://www.g2a.com/apple-gift-card-40-usd-apple-key-united- :: Error",
+    "G2A https://www.g2a.com/flexepin-gift-card-20-cad-flexepin-key-c :: Error",
     "G2A https://www.g2a.com/flexepin-gift-card-20-cad-flexepin-key-c :: Error",
     "G2A https://www.g2a.com/spotify-gift-card-99-usd-spotify-key-uni :: Error",
-    "G2A https://www.g2a.com/flexepin-gift-card-20-cad-flexepin-key-c :: Error",
     "G2A https://www.g2a.com/spotify-gift-card-99-usd-spotify-key-uni :: Error",
     "G2A https://www.g2a.com/apple-gift-card-30-usd-apple-key-united- :: Error",
     "G2A https://www.g2a.com/apple-gift-card-30-usd-apple-key-united- :: Error",
@@ -53,5 +53,5 @@
     "G2A https://www.g2a.com/binance-gift-card-500-usdt-key-i10000301 :: Error",
     "G2A https://www.g2a.com/binance-gift-card-500-usdt-key-i10000301 :: Error"
   ],
-  "elapsed_sec": 2611.4
+  "elapsed_sec": 2651.6
 }
