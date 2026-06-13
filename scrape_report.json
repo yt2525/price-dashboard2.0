@@ -1,6 +1,6 @@
 {
-  "ok": 1337,
-  "failed": 275,
+  "ok": 1343,
+  "failed": 269,
   "errors": [
     "G2A https://www.g2a.com/apple-gift-card-150-usd-apple-key-united :: Error",
     "G2A https://www.g2a.com/apple-gift-card-150-usd-apple-key-united :: Error",
@@ -45,13 +45,13 @@
     "G2A https://www.g2a.com/spotify-gift-card-10-usd-spotify-united- :: Error",
     "G2A https://www.g2a.com/spotify-gift-card-10-usd-spotify-united- :: Error",
     "G2A https://www.g2a.com/apple-gift-card-15-usd-apple-key-united- :: Error",
-    "G2A https://www.g2a.com/flexepin-gift-card-30-eur-flexepin-key-g :: Error",
     "G2A https://www.g2a.com/apple-gift-card-15-usd-apple-key-united- :: Error",
+    "G2A https://www.g2a.com/flexepin-gift-card-30-eur-flexepin-key-g :: Error",
     "G2A https://www.g2a.com/flexepin-gift-card-30-eur-flexepin-key-g :: Error",
     "G2A https://www.g2a.com/rewarble-super-gift-card-100-usd-by-rewa :: Error",
     "G2A https://www.g2a.com/rewarble-super-gift-card-100-usd-by-rewa :: Error",
     "G2A https://www.g2a.com/binance-gift-card-500-usdt-key-i10000301 :: Error",
     "G2A https://www.g2a.com/binance-gift-card-500-usdt-key-i10000301 :: Error"
   ],
-  "elapsed_sec": 2651.6
+  "elapsed_sec": 2496.0
 }
