@@ -1,0 +1,806 @@
+{
+  "generated": "2026-06-18T07:18:55.979519+00:00",
+  "source": "add-product-xlsx",
+  "categories": {
+    "PlayPark": {
+      "products": [
+        {
+          "name": "PlayPark @Cash 200,000 (SG)",
+          "urls": {}
+        },
+        {
+          "name": "PlayPark @Cash 100,000 (SG)",
+          "urls": {}
+        },
+        {
+          "name": "PlayPark @Cash 80,000 (SG)",
+          "urls": {}
+        },
+        {
+          "name": "PlayPark @Cash 50,000 (SG)",
+          "urls": {}
+        },
+        {
+          "name": "PlayPark @Cash 30,000 (SG)",
+          "urls": {}
+        }
+      ]
+    },
+    "Touch ‘n Go": {
+      "products": [
+        {
+          "name": "Touch ‘n Go Pin MYR 500 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 200 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 150 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 100 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 50 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 30 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 10 (MY)",
+          "urls": {}
+        }
+      ]
+    },
+    "Gate.io": {
+      "products": [
+        {
+          "name": "Gate.io Gift Cards USDT 1,000 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 500 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 250 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 50 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 25 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 10 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 5 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 1,000 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 500 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 250 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 50 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 25 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 10 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 5 (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Voucherry": {
+      "products": [
+        {
+          "name": "Voucherry USD500 Gift Card (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Voucherry USD250 Gift Card (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Voucherry USD100 Gift Card (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Voucherry USD50 Gift Card (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Voucherry USD20 Gift Card (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Voucherry USD10 Gift Card (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Voucherry USD5 Gift Card (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Eudemons Online": {
+      "products": [
+        {
+          "name": "Eudemons Online 5,400 Points (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Eudemons Online 2,650 Points (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Eudemons Online 1,380 Points (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Eudemons Online 680 Points (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Eudemons Online 420 Points (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Eudemons Online 165 Points (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Eudemons Online 80 Points (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "PUBG Mobile": {
+      "products": [
+        {
+          "name": "PUBG Mobile 30,000 + 10,500 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 24,000 + 8,400 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 18,000 + 6,300 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 12,000 + 4,200 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 6,000 + 2,100 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 3,000 + 850 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 1,500 + 300 UC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "PUBG Mobile 600 + 60 UC (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Bleach Online": {
+      "products": [
+        {
+          "name": "Bleach Online 40,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 32,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 20,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 12,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 8,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 4,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 3,200 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 2,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 1,200 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 800 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 400 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 200 Gold",
+          "urls": {}
+        }
+      ]
+    },
+    "Free Fire": {
+      "products": [
+        {
+          "name": "Free Fire 2,220 Diamonds Pins (Garena) (MENA)",
+          "urls": {}
+        },
+        {
+          "name": "Free Fire 1,080 Diamonds Pins (Garena) (MENA)",
+          "urls": {}
+        },
+        {
+          "name": "Free Fire 530 Diamonds Pins (Garena) (MENA)",
+          "urls": {}
+        },
+        {
+          "name": "Free Fire 210 Diamonds Pins (Garena) (MENA)",
+          "urls": {}
+        },
+        {
+          "name": "Free Fire 100 Diamonds Pins (Garena) (MENA)",
+          "urls": {}
+        }
+      ]
+    },
+    "抖音": {
+      "products": [
+        {
+          "name": "抖音 200000抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 100000抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 50000抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 30000抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 15980抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 5180抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 2980抖币 (中国)",
+          "urls": {}
+        }
+      ]
+    },
+    "Bigo Live": {
+      "products": [
+        {
+          "name": "Bigo Live 80,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 40,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 30,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 10,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 5,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 4,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 3,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 2,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 1,600 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 1,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 500 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 200 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 100 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 50 Diamonds (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Netflix": {
+      "products": [
+        {
+          "name": "Netflix USD100 Gift Card (US)",
+          "urls": {}
+        },
+        {
+          "name": "Netflix USD50 Gift Card (US)",
+          "urls": {}
+        },
+        {
+          "name": "Netflix Gift Card USD 25 (US)",
+          "urls": {}
+        },
+        {
+          "name": "Netflix Gift Card USD 20 (US)",
+          "urls": {}
+        },
+        {
+          "name": "Netflix Gift Card USD 15 (US)",
+          "urls": {}
+        }
+      ]
+    },
+    "Shahid": {
+      "products": [
+        {
+          "name": "Shahid 12 Months Subscription 760 EGP (EG)",
+          "urls": {}
+        },
+        {
+          "name": "Shahid 3 Months Subscription 239 EGP (EG)",
+          "urls": {}
+        },
+        {
+          "name": "Shahid 12 months VIP Subscription 97.6 USD (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Shahid 3 months VIP Subscription 30.6 USD (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "HOTLINK": {
+      "products": [
+        {
+          "name": "HOTLINK MYR 100 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "HOTLINK MYR 60 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "HOTLINK MYR 30 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "HOTLINK MYR 10 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "HOTLINK MYR 5 (MY)",
+          "urls": {}
+        }
+      ]
+    },
+    "Digi": {
+      "products": [
+        {
+          "name": "Digi Perpaid RM100 Voucher (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Digi Perpaid RM50 Voucher (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Digi Perpaid RM30 Voucher (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Digi Perpaid RM10 Voucher (MY)",
+          "urls": {}
+        },
+        {
+          "name": "Digi Perpaid RM5 Voucher (MY)",
+          "urls": {}
+        }
+      ]
+    },
+    "Viettel": {
+      "products": [
+        {
+          "name": "Viettel (Global) 1,000,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 500,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 300,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 200,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 100,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 50,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 30,000",
+          "urls": {}
+        }
+      ]
+    },
+    "Vinaphone": {
+      "products": [
+        {
+          "name": "Vinaphone (Global) 500000 Code",
+          "urls": {}
+        },
+        {
+          "name": "Vinaphone (Global) 300000 Code",
+          "urls": {}
+        },
+        {
+          "name": "Vinaphone (Global) 200000 Code",
+          "urls": {}
+        },
+        {
+          "name": "Vinaphone (Global) 100000 Code",
+          "urls": {}
+        },
+        {
+          "name": "Vinaphone (Global) 50000 Code",
+          "urls": {}
+        },
+        {
+          "name": "Vinaphone (Global) 30000 Code",
+          "urls": {}
+        }
+      ]
+    },
+    "Indosat": {
+      "products": [
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 200,000 (ID)",
+          "urls": {}
+        },
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 150,000 (ID)",
+          "urls": {}
+        },
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 100,000 (ID)",
+          "urls": {}
+        },
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 50,000 (ID)",
+          "urls": {}
+        }
+      ]
+    },
+    "MT 2009": {
+      "products": [
+        {
+          "name": "MT 2009 6,000 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "MT 2009 2,720 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "MT 2009 1,000 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "MT 2009 464 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "MT 2009 220 DC (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Lirin": {
+      "products": [
+        {
+          "name": "Lirin Gift Card 2,000 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Lirin Gift Card 960 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Lirin Gift Card 660 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Lirin Gift Card 460 DC (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Lirin Gift Card 360 DC (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Riot Points": {
+      "products": [
+        {
+          "name": "Riot Points Gift Card TRY 4,785 (TR)",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card TRY 2,450 (TR)",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card TRY 1,400 (TR)",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card TRY 850 (TR)",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card TRY 500 (TR)",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card EUR 100",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card EUR 50",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card EUR 25",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card EUR 20",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card EUR 10",
+          "urls": {}
+        }
+      ]
+    },
+    "Paypal Rewarble": {
+      "products": [
+        {
+          "name": "Paypal Rewarble Gift Card USD 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 60 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 50 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 30 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 10 (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Visa Rewarble": {
+      "products": [
+        {
+          "name": "Visa Rewarble Gift Card USD 450 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 250 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 200 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 20 (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Paypal Wallet": {
+      "products": [
+        {
+          "name": "Paypal Wallet Top Up EUR 200 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 400 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up USD 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 50 (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "ChatGPT": {
+      "products": [
+        {
+          "name": "Paypal Wallet Top Up EUR 200 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 400 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up USD 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 50 (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Adobe": {
+      "products": [
+        {
+          "name": "Adobe Subscription 1 Month Account",
+          "urls": {}
+        },
+        {
+          "name": "Adobe Subscription 3 Months Account",
+          "urls": {}
+        },
+        {
+          "name": "Adobe Creative Cloud Subscription 1 Month - Private Account (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Adobe Creative Cloud Subscription 1 Month - Shared Account (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Adobe Subscription 2 Months Account",
+          "urls": {}
+        }
+      ]
+    },
+    "U Mobile": {
+      "products": [
+        {
+          "name": "U Mobile Prepaid MYR 100 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "U Mobile Prepaid MYR 50 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "U Mobile Prepaid MYR 30 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "U Mobile Prepaid MYR 15 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "U Mobile Prepaid MYR 10 (MY)",
+          "urls": {}
+        }
+      ]
+    }
+  }
+}
