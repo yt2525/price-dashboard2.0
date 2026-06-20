@@ -1,6 +1,10 @@
 {
-  "ok": 1650,
+  "ok": 1825,
   "failed": 98,
-  "errors": [],
-  "elapsed_sec": 3115.6
+  "errors": [
+    "Kinguin https://www.kinguin.net/category/175029/steam-wallet-qar-100 :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/123858/itunes-500-us-card :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/123858/itunes-500-us-card :: TimeoutError"
+  ],
+  "elapsed_sec": 3278.1
 }
