@@ -1,6 +1,14 @@
 {
-  "ok": 625,
-  "failed": 19,
-  "errors": [],
-  "elapsed_sec": 1374.2
+  "ok": 616,
+  "failed": 12,
+  "errors": [
+    "Kinguin https://www.kinguin.net/category/4186/itunes-card-10-us-card :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/326807/rewarble-super-60-gi :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/13841/playstation-network-c :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/4186/itunes-card-10-us-card :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/13841/playstation-network-c :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/223696/binance-gift-card-us :: TimeoutError",
+    "Kinguin https://www.kinguin.net/category/326806/rewarble-super-50-gi :: TimeoutError"
+  ],
+  "elapsed_sec": 1399.2
 }
