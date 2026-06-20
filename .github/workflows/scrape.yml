@@ -34,13 +34,13 @@ jobs:
           pip install playwright
           python -m playwright install --with-deps chromium
 
-      - name: Run scraper (cloud-friendly sites only)
-        # OG, G2G, G2A and Seagm need a residential IP / real Cloudflare clearance
-        # (SEAGM's USD currency switch is a server-side session behind Cloudflare
-        # that the datacenter headless run can't pass), so they are scraped on the
-        # residential Mac (sync_og_g2g.command) instead. Skip them here and --merge
-        # so this run refreshes every other site without wiping their values.
-        run: python scrape.py --skip-comps OG,G2G,G2A,Seagm --merge
+      - name: Run scraper
+        # OG/G2G are JSON-API based and SEAGM now reads the /en-us/ page's embedded
+        # clientData (USD by default — no Cloudflare currency-switch needed), so the
+        # cloud scrapes those too. Only G2A still needs a residential IP, so it stays
+        # on the local sync_og_g2g.command. --merge never overwrites a real price
+        # with N/A, so a transient SEAGM/G2A block can't wipe existing values.
+        run: python scrape.py --skip-comps G2A --merge
 
       - name: Commit prices.json
         run: |
