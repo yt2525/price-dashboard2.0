@@ -1,0 +1,1149 @@
+{
+  "generated": "2026-06-18T07:18:55.979519+00:00",
+  "source": "add-product-xlsx",
+  "categories": {
+    "PlayPark": {
+      "products": [
+        {
+          "name": "PlayPark @Cash 200,000 (SG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/playpark-gift-cards/offer/group?fa=24c4aec0%3Ac596a60d&region_id=ba74358c-c419-4d3e-a96b-99a5207da594&sort=lowest_price",
+            "OG": "https://www.offgamers.com/my/product/playpark-gift-cards?offer_id=G1715142023057LR"
+          }
+        },
+        {
+          "name": "PlayPark @Cash 100,000 (SG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/playpark-gift-cards/offer/group?region_id=ba74358c-c419-4d3e-a96b-99a5207da594&fa=24c4aec0%3A6fbd1381&offer_id=G1660111970526HH",
+            "OG": "https://www.offgamers.com/my/product/playpark-gift-cards?offer_id=G1715142210674XG"
+          }
+        },
+        {
+          "name": "PlayPark @Cash 80,000 (SG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/playpark-gift-cards/offer/group?region_id=ba74358c-c419-4d3e-a96b-99a5207da594&fa=24c4aec0%3A8e5e0609&offer_id=G1726808303798VM",
+            "OG": "https://www.offgamers.com/my/product/playpark-gift-cards?offer_id=G1715142023614VD"
+          }
+        },
+        {
+          "name": "PlayPark @Cash 50,000 (SG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/playpark-gift-cards/offer/group?region_id=ba74358c-c419-4d3e-a96b-99a5207da594&fa=24c4aec0%3Adabc1109&offer_id=G1660112000946TE",
+            "OG": "https://www.offgamers.com/my/product/playpark-gift-cards?offer_id=G1715142024197VP"
+          }
+        },
+        {
+          "name": "PlayPark @Cash 30,000 (SG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/playpark-gift-cards/offer/group?region_id=ba74358c-c419-4d3e-a96b-99a5207da594&fa=24c4aec0%3A557758ff&offer_id=G1726808304559SO",
+            "OG": "https://www.offgamers.com/my/product/playpark-gift-cards?offer_id=G1715142024997EN"
+          }
+        }
+      ]
+    },
+    "Touch ‘n Go": {
+      "products": [
+        {
+          "name": "Touch ‘n Go Pin MYR 500 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?fa=3088f4c9%3A9ece6832&region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&sort=lowest_price",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1718877653434IM"
+          }
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 200 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=3088f4c9%3Abf0f3f46&offer_id=G1726814421565KW",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1715143589408JM"
+          }
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 150 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=3088f4c9%3A4732509a&offer_id=G1727059746957KU",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1718877958316JU"
+          }
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 100 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=3088f4c9%3A654cd11c&offer_id=G1712891548297KI",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1715144765252EK"
+          }
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 50 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=3088f4c9%3Ab78ec59e&offer_id=G1712891584277VY",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1715144765890SH"
+          }
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 30 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=3088f4c9%3Aa437a4c3&offer_id=G1739702219398IB",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1715144766452RN"
+          }
+        },
+        {
+          "name": "Touch ‘n Go Pin MYR 10 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/touch-n-go-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=3088f4c9%3Adb36bdda&offer_id=G1712891667094SW",
+            "OG": "https://www.offgamers.com/my/product/touch-n-go-gift-cards?offer_id=G1715142925285ZS"
+          }
+        }
+      ]
+    },
+    "Gate.io": {
+      "products": [
+        {
+          "name": "Gate.io Gift Cards USDT 1,000 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1767595173779BO"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 500 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746607340658JB"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 250 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746607341121NF"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 100 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746602148134GO"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 50 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746602148551HL"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 25 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746607337301CJ"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 10 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746602144087HC"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDT 5 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1746602152089BN"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 1,000 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 500 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729871367VS"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 250 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729875368GL"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 100 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729874775NH"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 50 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729882546VR"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 25 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729877861PI"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 10 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729879883IA"
+          }
+        },
+        {
+          "name": "Gate.io Gift Cards USDC 5 (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/gateio-gift-cards?offer_id=G1747729884519DD"
+          }
+        }
+      ]
+    },
+    "Voucherry": {
+      "products": [
+        {
+          "name": "Voucherry USD500 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?fa=084335de%3Aa239ca62&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715145788707NJ"
+          }
+        },
+        {
+          "name": "Voucherry USD250 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=084335de%3A0c0a8c0e&offer_id=G1726814394333GC",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715143491251MD"
+          }
+        },
+        {
+          "name": "Voucherry USD100 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=084335de%3Aeca7b4e9&offer_id=G1726814399506NI",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715146166059ZE"
+          }
+        },
+        {
+          "name": "Voucherry USD50 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=084335de%3Ad9045953&offer_id=G1726814397778NZ",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715146166620GP"
+          }
+        },
+        {
+          "name": "Voucherry USD20 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=084335de%3A7cc8a657&offer_id=G1726814395265IB",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715146167179GB"
+          }
+        },
+        {
+          "name": "Voucherry USD10 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=084335de%3A3c52f9ad&offer_id=G1726814396105CR",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715146167720JA"
+          }
+        },
+        {
+          "name": "Voucherry USD5 Gift Card (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/voucherry-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=084335de%3A5f226de4&offer_id=G1726814396950UG",
+            "OG": "https://www.offgamers.com/product/voucherry-gift-cards?offer_id=G1715146168278BP"
+          }
+        }
+      ]
+    },
+    "Eudemons Online": {
+      "products": [
+        {
+          "name": "Eudemons Online 5,400 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178683793MT"
+          }
+        },
+        {
+          "name": "Eudemons Online 2,650 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178676627IL"
+          }
+        },
+        {
+          "name": "Eudemons Online 1,380 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178682574NG"
+          }
+        },
+        {
+          "name": "Eudemons Online 680 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178683188OS"
+          }
+        },
+        {
+          "name": "Eudemons Online 420 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178681247FI"
+          }
+        },
+        {
+          "name": "Eudemons Online 165 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178681930IQ"
+          }
+        },
+        {
+          "name": "Eudemons Online 80 Points (Global)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/eudemons-online-gift-cards?offer_id=G1716178684446XG"
+          }
+        }
+      ]
+    },
+    "PUBG Mobile": {
+      "products": [
+        {
+          "name": "PUBG Mobile 30,000 + 10,500 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?fa=7ed023ce%3Acc1c03c5&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1742202887054TP"
+          }
+        },
+        {
+          "name": "PUBG Mobile 24,000 + 8,400 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3Ab218a106&offer_id=G1751302511069QT",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1721624311223EY"
+          }
+        },
+        {
+          "name": "PUBG Mobile 18,000 + 6,300 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3Adf06f951&offer_id=G1758647900476YN",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1721272921271NI"
+          }
+        },
+        {
+          "name": "PUBG Mobile 12,000 + 4,200 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3A4c41232b&offer_id=G1774471581663QM",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1721272933472BS"
+          }
+        },
+        {
+          "name": "PUBG Mobile 6,000 + 2,100 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3A44afa4c6&offer_id=G1732502906089PN",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1715142622359TW"
+          }
+        },
+        {
+          "name": "PUBG Mobile 3,000 + 850 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3A1fa4d508&offer_id=G1732503073996XO",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1715141260236KB"
+          }
+        },
+        {
+          "name": "PUBG Mobile 1,500 + 300 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3Acd3d9649&offer_id=G1732503076205ML",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1715142511174RT"
+          }
+        },
+        {
+          "name": "PUBG Mobile 600 + 60 UC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/pubg-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=7ed023ce%3Af93ff2a6&offer_id=G1732503078641RK",
+            "OG": "https://www.offgamers.com/product/pubg-mobile-gift-cards?offer_id=G1715142511733RM"
+          }
+        }
+      ]
+    },
+    "Bleach Online": {
+      "products": [
+        {
+          "name": "Bleach Online 40,000 Gold",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/bleach-online-direct-top-up?offer_id=G1715141979497CU"
+          }
+        },
+        {
+          "name": "Bleach Online 32,000 Gold",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/bleach-online-direct-top-up?offer_id=G1715141980078JN"
+          }
+        },
+        {
+          "name": "Bleach Online 20,000 Gold",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/bleach-online-direct-top-up?offer_id=G1715141980676ZD"
+          }
+        },
+        {
+          "name": "Bleach Online 12,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 8,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 4,000 Gold",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/bleach-online-direct-top-up?offer_id=G1715141982537WO"
+          }
+        },
+        {
+          "name": "Bleach Online 3,200 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 2,000 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 1,200 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 800 Gold",
+          "urls": {}
+        },
+        {
+          "name": "Bleach Online 400 Gold",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/bleach-online-direct-top-up?offer_id=G1715141985494AF"
+          }
+        },
+        {
+          "name": "Bleach Online 200 Gold",
+          "urls": {}
+        }
+      ]
+    },
+    "Free Fire": {
+      "products": [
+        {
+          "name": "Free Fire 2,220 Diamonds Pins (Garena) (MENA)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/garena-free-fire-gift-cards/offer/group?fa=2159b11c%3A8495ef54&region_id=d7650188-cd4d-443e-912e-673707facdff&sort=lowest_price",
+            "OG": "https://www.offgamers.com/my/product/free-fire-direct-top-up?region_id=c0e2df1d-e8bb-40c8-9ed8-622238016e66&offer_id=G1721624091079ZD"
+          }
+        },
+        {
+          "name": "Free Fire 1,080 Diamonds Pins (Garena) (MENA)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/garena-free-fire-gift-cards/offer/group?fa=2159b11c%3A7bfdb7cb&region_id=d7650188-cd4d-443e-912e-673707facdff&sort=lowest_price",
+            "OG": "https://www.offgamers.com/my/product/free-fire-direct-top-up?region_id=c0e2df1d-e8bb-40c8-9ed8-622238016e66&offer_id=G1721624095901WK"
+          }
+        },
+        {
+          "name": "Free Fire 530 Diamonds Pins (Garena) (MENA)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/free-fire-direct-top-up?region_id=c0e2df1d-e8bb-40c8-9ed8-622238016e66&offer_id=G1721624097745AI"
+          }
+        },
+        {
+          "name": "Free Fire 210 Diamonds Pins (Garena) (MENA)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/garena-free-fire-gift-cards/offer/group?fa=2159b11c%3A8999c538&region_id=d7650188-cd4d-443e-912e-673707facdff&sort=lowest_price",
+            "OG": "https://www.offgamers.com/my/product/free-fire-direct-top-up?region_id=c0e2df1d-e8bb-40c8-9ed8-622238016e66&offer_id=G1721624097165HU"
+          }
+        },
+        {
+          "name": "Free Fire 100 Diamonds Pins (Garena) (MENA)",
+          "urls": {
+            "OG": "https://www.offgamers.com/my/product/free-fire-direct-top-up?region_id=c0e2df1d-e8bb-40c8-9ed8-622238016e66&offer_id=G1721624096568BP"
+          }
+        }
+      ]
+    },
+    "抖音": {
+      "products": [
+        {
+          "name": "抖音 200000抖币 (中国)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/douyin-direct-top-up?offer_id=G1756858870476FZ"
+          }
+        },
+        {
+          "name": "抖音 100000抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 50000抖币 (中国)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/douyin-top-up/offer/group?fa=523c8a23%3A838ad69e&region_id=05f523c9-e158-4d9d-972d-7db0795b3d80&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/douyin-direct-top-up?offer_id=G1756859086423PH"
+          }
+        },
+        {
+          "name": "抖音 30000抖币 (中国)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/douyin-top-up/offer/group?region_id=05f523c9-e158-4d9d-972d-7db0795b3d80&fa=523c8a23%3A36e15820&offer_id=G1776923459879WI",
+            "OG": "https://www.offgamers.com/product/douyin-direct-top-up?offer_id=G1756859154733QO"
+          }
+        },
+        {
+          "name": "抖音 15980抖币 (中国)",
+          "urls": {}
+        },
+        {
+          "name": "抖音 5180抖币 (中国)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/douyin-top-up/offer/group?region_id=05f523c9-e158-4d9d-972d-7db0795b3d80&fa=523c8a23%3Abb9e361e&offer_id=G1776923344296UJ",
+            "OG": "https://www.offgamers.com/product/douyin-direct-top-up?offer_id=G1756859307374AZ"
+          }
+        },
+        {
+          "name": "抖音 2980抖币 (中国)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/douyin-top-up/offer/group?region_id=05f523c9-e158-4d9d-972d-7db0795b3d80&fa=523c8a23%3A7835ddcd&offer_id=G1776923283339FE",
+            "OG": "https://www.offgamers.com/product/douyin-direct-top-up?offer_id=G1756859455223MN"
+          }
+        }
+      ]
+    },
+    "Bigo Live": {
+      "products": [
+        {
+          "name": "Bigo Live 80,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 40,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 30,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 10,000 Diamonds (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/bigo-live-top-up/offer/group?fa=b9a6661d%3Aa180df5a&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/bigo-live-direct-top-up?offer_id=G1780980029156VC"
+          }
+        },
+        {
+          "name": "Bigo Live 5,000 Diamonds (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/bigo-live-top-up/offer/group?fa=b9a6661d%3Abe8f7552&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/bigo-live-direct-top-up?offer_id=G1780980030769GR"
+          }
+        },
+        {
+          "name": "Bigo Live 4,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 3,000 Diamonds (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/bigo-live-top-up/offer/group?fa=b9a6661d%3A6df01c76&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/bigo-live-direct-top-up?offer_id=G1780980031180FV"
+          }
+        },
+        {
+          "name": "Bigo Live 2,000 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 1,600 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 1,000 Diamonds (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/bigo-live-top-up/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=b9a6661d%3Aa6ec2120&offer_id=G1724921341435EJ",
+            "OG": "https://www.offgamers.com/product/bigo-live-direct-top-up?offer_id=G1780980030358CH"
+          }
+        },
+        {
+          "name": "Bigo Live 500 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 200 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 100 Diamonds (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Bigo Live 50 Diamonds (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "Netflix": {
+      "products": [
+        {
+          "name": "Netflix USD100 Gift Card (US)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/nflx-gift-cards/offer/group?fa=55a5d239-6288-40d1-9036-0c3f10ce395a%3Aced4ab00-650c-439d-9a16-19b07915e19e&region_id=dfced32f-2f0a-4df5-a218-1e068cfadffa&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/netflix-gift-cards?offer_id=G1715142829322ER"
+          }
+        },
+        {
+          "name": "Netflix USD50 Gift Card (US)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/nflx-gift-cards/offer/group?region_id=dfced32f-2f0a-4df5-a218-1e068cfadffa&fa=55a5d239-6288-40d1-9036-0c3f10ce395a%3A641d77f5&offer_id=G1745504976838VY",
+            "OG": "https://www.offgamers.com/product/netflix-gift-cards?offer_id=G1731642606958OD"
+          }
+        },
+        {
+          "name": "Netflix Gift Card USD 25 (US)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/nflx-gift-cards/offer/group?region_id=dfced32f-2f0a-4df5-a218-1e068cfadffa&fa=55a5d239-6288-40d1-9036-0c3f10ce395a%3A3bde6942&offer_id=G1745504428595KI",
+            "OG": "https://www.offgamers.com/product/netflix-gift-cards?offer_id=G1768452541813PQ"
+          }
+        },
+        {
+          "name": "Netflix Gift Card USD 20 (US)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/nflx-gift-cards/offer/group?region_id=dfced32f-2f0a-4df5-a218-1e068cfadffa&fa=55a5d239-6288-40d1-9036-0c3f10ce395a%3A1c34ef97&offer_id=G1744456067810TF",
+            "OG": "https://www.offgamers.com/product/netflix-gift-cards?offer_id=G1768203705355OO"
+          }
+        },
+        {
+          "name": "Netflix Gift Card USD 15 (US)",
+          "urls": {}
+        }
+      ]
+    },
+    "Shahid": {
+      "products": [
+        {
+          "name": "Shahid 12 Months Subscription 760 EGP (EG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/shahid-subscription-gift-cards/offer/group?fa=b5a05754%3A1275eabb&region_id=0ea6e058-94a7-49a5-ad7e-9360cbe1b8ca",
+            "OG": "https://www.offgamers.com/product/shahid-gift-cards?region_id=c529ae14-9deb-49d5-a011-840636a89178&offer_id=G1746439575985XC"
+          }
+        },
+        {
+          "name": "Shahid 3 Months Subscription 239 EGP (EG)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/shahid-subscription-gift-cards/offer/group?fa=b5a05754%3A1556e85d&region_id=0ea6e058-94a7-49a5-ad7e-9360cbe1b8ca",
+            "OG": "https://www.offgamers.com/product/shahid-gift-cards?region_id=c529ae14-9deb-49d5-a011-840636a89178&offer_id=G1746439609029EX"
+          }
+        },
+        {
+          "name": "Shahid 12 months VIP Subscription 97.6 USD (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Shahid 3 months VIP Subscription 30.6 USD (Global)",
+          "urls": {}
+        }
+      ]
+    },
+    "HOTLINK": {
+      "products": [
+        {
+          "name": "HOTLINK MYR 100 (MY)",
+          "urls": {}
+        },
+        {
+          "name": "HOTLINK MYR 60 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/hotlink-gift-cards/offer/group?fa=538000db%3Abd300fee&region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/hotlink-gift-cards?offer_id=G1715142844505RM"
+          }
+        },
+        {
+          "name": "HOTLINK MYR 30 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/hotlink-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=538000db%3Adde8d729&offer_id=G1763537041728BQ",
+            "OG": "https://www.offgamers.com/product/hotlink-gift-cards?offer_id=G1715142845074OY"
+          }
+        },
+        {
+          "name": "HOTLINK MYR 10 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/hotlink-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=538000db%3Af7e12642&offer_id=G1763537044021DP",
+            "OG": "https://www.offgamers.com/product/hotlink-gift-cards?offer_id=G1715142845705QP"
+          }
+        },
+        {
+          "name": "HOTLINK MYR 5 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/hotlink-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=538000db%3A73b4b213&offer_id=G1763537047962NE",
+            "OG": "https://www.offgamers.com/product/hotlink-gift-cards?offer_id=G1715142849183KJ"
+          }
+        }
+      ]
+    },
+    "Digi": {
+      "products": [
+        {
+          "name": "Digi Perpaid RM100 Voucher (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/digi-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=100df1fa%3A3d4c84f2&offer_id=G1763539332726TJ",
+            "OG": "https://www.offgamers.com/product/digi-gift-cards?offer_id=G1715142884665IP"
+          }
+        },
+        {
+          "name": "Digi Perpaid RM50 Voucher (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/digi-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=100df1fa%3Aef9ef7c3&offer_id=G1763539337132QN",
+            "OG": "https://www.offgamers.com/product/digi-gift-cards?offer_id=G1715142885245VG"
+          }
+        },
+        {
+          "name": "Digi Perpaid RM30 Voucher (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/digi-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=100df1fa%3A3421e336&offer_id=G1763539339779NG",
+            "OG": "https://www.offgamers.com/product/digi-gift-cards?offer_id=G1715142885828TB"
+          }
+        },
+        {
+          "name": "Digi Perpaid RM10 Voucher (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/digi-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=100df1fa%3Aee48f3ba&offer_id=G1763539343607OS",
+            "OG": "https://www.offgamers.com/product/digi-gift-cards?offer_id=G1715142886382JW"
+          }
+        },
+        {
+          "name": "Digi Perpaid RM5 Voucher (MY)",
+          "urls": {}
+        }
+      ]
+    },
+    "Viettel": {
+      "products": [
+        {
+          "name": "Viettel (Global) 1,000,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 500,000",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/viettel-mobile-gift-cards/offer/group?fa=071839dc%3Ad5556d3e&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/viettel-code-gift-cards?offer_id=G1727322056498QG"
+          }
+        },
+        {
+          "name": "Viettel (Global) 300,000",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/viettel-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=071839dc%3A5decd379&offer_id=G1774871922348NG",
+            "OG": "https://www.offgamers.com/product/viettel-code-gift-cards?offer_id=G1727322061163FH"
+          }
+        },
+        {
+          "name": "Viettel (Global) 200,000",
+          "urls": {}
+        },
+        {
+          "name": "Viettel (Global) 100,000",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/viettel-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=071839dc%3A4b05cf4d&offer_id=G1774871999728MN",
+            "OG": "https://www.offgamers.com/product/viettel-code-gift-cards?offer_id=G1715141945107YB"
+          }
+        },
+        {
+          "name": "Viettel (Global) 50,000",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/viettel-mobile-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=071839dc%3A5fddd627&offer_id=G1774871984255DV",
+            "OG": "https://www.offgamers.com/product/viettel-code-gift-cards?offer_id=G1715141945732FQ"
+          }
+        },
+        {
+          "name": "Viettel (Global) 30,000",
+          "urls": {}
+        }
+      ]
+    },
+    "Vinaphone": {
+      "products": [
+        {
+          "name": "Vinaphone (Global) 500000 Code",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/vinaphone-top-up/offer/group?fa=9028d65a%3A0318c40f&region_id=e77a3e8f-ab32-4b72-b25e-37f33a54f571&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/vinaphone-code-gift-cards?offer_id=G1715141948386EN"
+          }
+        },
+        {
+          "name": "Vinaphone (Global) 300000 Code",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/vinaphone-top-up/offer/group?region_id=e77a3e8f-ab32-4b72-b25e-37f33a54f571&fa=9028d65a%3Aa21632d8&offer_id=G1763891949731AS",
+            "OG": "https://www.offgamers.com/product/vinaphone-code-gift-cards?offer_id=G1715141949039ZN"
+          }
+        },
+        {
+          "name": "Vinaphone (Global) 200000 Code",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/vinaphone-top-up/offer/group?region_id=e77a3e8f-ab32-4b72-b25e-37f33a54f571&fa=9028d65a%3Abdea5a63&offer_id=G1763891927732TE",
+            "OG": "https://www.offgamers.com/product/vinaphone-code-gift-cards?offer_id=G1715141950453RR"
+          }
+        },
+        {
+          "name": "Vinaphone (Global) 100000 Code",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/vinaphone-top-up/offer/group?region_id=e77a3e8f-ab32-4b72-b25e-37f33a54f571&fa=9028d65a%3Aef9bf4c8&offer_id=G1763891893111BZ",
+            "OG": "https://www.offgamers.com/product/vinaphone-code-gift-cards?offer_id=G1715141950453RR"
+          }
+        },
+        {
+          "name": "Vinaphone (Global) 50000 Code",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/vinaphone-top-up/offer/group?region_id=e77a3e8f-ab32-4b72-b25e-37f33a54f571&fa=9028d65a%3A0a998cbe&offer_id=G1763891850262MP",
+            "OG": "https://www.offgamers.com/product/vinaphone-code-gift-cards?offer_id=G1715141951090KL"
+          }
+        },
+        {
+          "name": "Vinaphone (Global) 30000 Code",
+          "urls": {}
+        }
+      ]
+    },
+    "Indosat": {
+      "products": [
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 200,000 (ID)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/indosat-ooredoo-top-up/offer/group?fa=03d910d7%3A50baeb18&region_id=dda7882c-cc50-4f5b-a2a6-571f9bb2fdf1&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/indosat-gift-cards?offer_id=G1734337323110MR"
+          }
+        },
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 150,000 (ID)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/indosat-gift-cards?offer_id=G1734337323750TU"
+          }
+        },
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 100,000 (ID)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/indosat-ooredoo-top-up/offer/group?region_id=dda7882c-cc50-4f5b-a2a6-571f9bb2fdf1&fa=03d910d7%3Abc95664e&offer_id=G1771163597518UE",
+            "OG": "https://www.offgamers.com/product/indosat-gift-cards?offer_id=G1734337318789DQ"
+          }
+        },
+        {
+          "name": "Indosat Ooredoo Hutchison Gift Card IDR 50,000 (ID)",
+          "urls": {
+            "OG": "https://www.offgamers.com/product/indosat-gift-cards?offer_id=G1734337325050JM"
+          }
+        }
+      ]
+    },
+    "MT 2009": {
+      "products": [
+        {
+          "name": "MT 2009 6,000 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/mt2009-gift-cards/offer/group?fa=d93a2251%3A4553be48&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9"
+          }
+        },
+        {
+          "name": "MT 2009 2,720 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/mt2009-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=d93a2251%3A88bb298f&offer_id=G1769598646393AG"
+          }
+        },
+        {
+          "name": "MT 2009 1,000 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/mt2009-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=d93a2251%3A847c2d1d&offer_id=G1769598617764OC"
+          }
+        },
+        {
+          "name": "MT 2009 464 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/mt2009-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=d93a2251%3Aad9537f7&offer_id=G1769598595398YM"
+          }
+        },
+        {
+          "name": "MT 2009 220 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/mt2009-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=d93a2251%3A00d47557&offer_id=G1769598576077PR"
+          }
+        }
+      ]
+    },
+    "Lirin": {
+      "products": [
+        {
+          "name": "Lirin Gift Card 2,000 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/lirin-gift-cards/offer/group?fa=af7311fa%3A877ce7ac&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9"
+          }
+        },
+        {
+          "name": "Lirin Gift Card 960 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/lirin-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=af7311fa%3A350a261c&offer_id=G1775206137841ZV"
+          }
+        },
+        {
+          "name": "Lirin Gift Card 660 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/lirin-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=af7311fa%3Add27592b&offer_id=G1775206110810LF"
+          }
+        },
+        {
+          "name": "Lirin Gift Card 460 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/lirin-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=af7311fa%3A74e9fa40&offer_id=G1775206068766SC"
+          }
+        },
+        {
+          "name": "Lirin Gift Card 360 DC (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/lirin-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=af7311fa%3Ab95b4ca3&offer_id=G1775206042623VX"
+          }
+        }
+      ]
+    },
+    "Riot Points": {
+      "products": [
+        {
+          "name": "Riot Points Gift Card TRY 4,785 (TR)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?fa=a6547cb5-c6d2-40d5-9eaa-881c60ef4574%3Affa56e10&region_id=bc44cfcf-8bc9-4563-a02f-084cbb7170f3"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card TRY 2,450 (TR)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?region_id=bc44cfcf-8bc9-4563-a02f-084cbb7170f3&fa=a6547cb5-c6d2-40d5-9eaa-881c60ef4574%3Af39ea385&offer_id=G1730514013275TZ"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card TRY 1,400 (TR)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?region_id=bc44cfcf-8bc9-4563-a02f-084cbb7170f3&fa=a6547cb5-c6d2-40d5-9eaa-881c60ef4574%3Ad50ae188&offer_id=G1686177152747VA"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card TRY 850 (TR)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?region_id=bc44cfcf-8bc9-4563-a02f-084cbb7170f3&fa=a6547cb5-c6d2-40d5-9eaa-881c60ef4574%3A224a6126&offer_id=G1730514172455GI"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card TRY 500 (TR)",
+          "urls": {}
+        },
+        {
+          "name": "Riot Points Gift Card EUR 100",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?fa=d418668d-3d6a-4a87-9037-c3e2f026d408%3A457d0d38-2134-4159-979b-a2527162fcb9&region_id=ac3f85c1-7562-437e-b125-e89576b9a38e"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card EUR 50",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?region_id=ac3f85c1-7562-437e-b125-e89576b9a38e&fa=d418668d-3d6a-4a87-9037-c3e2f026d408%3A3e5f62b5-ffd1-4f2d-a704-5738dbac99c7&offer_id=G1750764125035JI"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card EUR 25",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?region_id=ac3f85c1-7562-437e-b125-e89576b9a38e&fa=d418668d-3d6a-4a87-9037-c3e2f026d408%3A775ba60f&offer_id=G1749614697912FH"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card EUR 20",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/riot-points-gift-cards/offer/group?fa=d418668d-3d6a-4a87-9037-c3e2f026d408%3A96f7b2d5-9d6f-4328-a7d4-7f438e378224&region_id=ac3f85c1-7562-437e-b125-e89576b9a38e",
+            "OG": "https://www.offgamers.com/product/riot-points-gift-cards?region_id=d3d78e7e-b8fb-4053-a707-bcb0dd7da4a1&offer_id=G1740478984503GE"
+          }
+        },
+        {
+          "name": "Riot Points Gift Card EUR 10",
+          "urls": {}
+        }
+      ]
+    },
+    "Paypal Rewarble": {
+      "products": [
+        {
+          "name": "Paypal Rewarble Gift Card USD 100 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-rewarble-gift-cards/offer/group?fa=027fa357%3Adcd1d333&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/paypal-gift-cards?offer_id=G1725440094605NR"
+          }
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 60 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=027fa357%3A809edce9&offer_id=G1737695190669TQ",
+            "OG": "https://www.offgamers.com/product/paypal-gift-cards?offer_id=G1725440093857XY"
+          }
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 50 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=027fa357%3Adf872e80&offer_id=G1737695243271EQ",
+            "OG": "https://www.offgamers.com/product/paypal-gift-cards?offer_id=G1725440095957BE"
+          }
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 30 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=027fa357%3A8d8b7e4a&offer_id=G1737695267516AE",
+            "OG": "https://www.offgamers.com/product/paypal-gift-cards?offer_id=G1725440096572XJ"
+          }
+        },
+        {
+          "name": "Paypal Rewarble Gift Card USD 10 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=027fa357%3A62239e15&offer_id=G1737695319830QQ",
+            "OG": "https://www.offgamers.com/product/paypal-gift-cards?offer_id=G1725440097187OJ"
+          }
+        }
+      ]
+    },
+    "Visa Rewarble": {
+      "products": [
+        {
+          "name": "Visa Rewarble Gift Card USD 450 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/visa-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=650a8426%3Abef092e4&offer_id=G1774966889818IT"
+          }
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 250 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/visa-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=650a8426%3A4d5c4829&offer_id=G1748597058699IS"
+          }
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 200 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/visa-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=650a8426%3A88b58e2d&offer_id=G1748597000580TW"
+          }
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 100 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/visa-rewarble-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=650a8426%3A0a9e7446&offer_id=G1744391817355UD",
+            "OG": "https://www.offgamers.com/product/virtual-visa-rewarble-gift-cards?offer_id=G1725440095725UM"
+          }
+        },
+        {
+          "name": "Visa Rewarble Gift Card USD 20 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/visa-rewarble-gift-cards/offer/group?fa=650a8426%3Ae0ef0840&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price"
+          }
+        }
+      ]
+    },
+    "Paypal Wallet": {
+      "products": [
+        {
+          "name": "Paypal Wallet Top Up EUR 200 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-wallet-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=ae81ad52%3A15ff273d&offer_id=G1774343949847UE"
+          }
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 400 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 100 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-wallet-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=ae81ad52%3A65d17642&offer_id=G1774343291054KW"
+          }
+        },
+        {
+          "name": "Paypal Wallet Top Up USD 100 (Global)",
+          "urls": {}
+        },
+        {
+          "name": "Paypal Wallet Top Up EUR 50 (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/ppal-wallet-gift-cards/offer/group?region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&fa=ae81ad52%3A70dd5715&offer_id=G1774343259907IB"
+          }
+        }
+      ]
+    },
+    "ChatGPT": {
+      "products": [
+        {
+          "name": "ChatGPT Business 2 Months - Private Account (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/cgpt-accounts/offer/group?fa=e96208ce%3A970694b0&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price"
+          },
+          "region": "Global"
+        },
+        {
+          "name": "ChatGPT Pro 1 Month - Shared Account (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/cgpt-accounts/offer/group?fa=e96208ce%3Ad6a1dc1d&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price"
+          },
+          "region": "Global"
+        },
+        {
+          "name": "ChatGPT Pro 1 Month - Private Account (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/cgpt-accounts/offer/group?fa=e96208ce%3Af569bf02&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9&sort=lowest_price"
+          },
+          "region": "Global"
+        }
+      ]
+    },
+    "Adobe": {
+      "products": [
+        {
+          "name": "Adobe Subscription 1 Month Account",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/adobe-accounts/offer/group?fa=53df4a10%3A4819413f&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9"
+          }
+        },
+        {
+          "name": "Adobe Subscription 3 Months Account",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/adobe-accounts/offer/group?fa=53df4a10%3A332218db&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9"
+          }
+        },
+        {
+          "name": "Adobe Creative Cloud Subscription 1 Month - Private Account (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/adobe-accounts/offer/group?fa=53df4a10%3A9ce6e100&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9"
+          }
+        },
+        {
+          "name": "Adobe Creative Cloud Subscription 1 Month - Shared Account (Global)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/adobe-accounts/offer/group?fa=53df4a10%3A93c427b7&region_id=0f76ac42-3267-4d77-9fba-f9d9d719dac9"
+          }
+        },
+        {
+          "name": "Adobe Subscription 2 Months Account",
+          "urls": {}
+        }
+      ]
+    },
+    "U Mobile": {
+      "products": [
+        {
+          "name": "U Mobile Prepaid MYR 100 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/umobile-gift-cards/offer/group?fa=166cbbe6%3A337992d3&region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&sort=lowest_price",
+            "OG": "https://www.offgamers.com/product/u-mobile-prepaid-gift-cards?offer_id=G1715144744204LC"
+          }
+        },
+        {
+          "name": "U Mobile Prepaid MYR 50 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/umobile-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=166cbbe6%3A46346642&offer_id=G1775028697870FL",
+            "OG": "https://www.offgamers.com/product/u-mobile-prepaid-gift-cards?offer_id=G1715142887864UN"
+          }
+        },
+        {
+          "name": "U Mobile Prepaid MYR 30 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/umobile-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=166cbbe6%3A09167c11&offer_id=G1775028744372LO",
+            "OG": "https://www.offgamers.com/product/u-mobile-prepaid-gift-cards?offer_id=G1715144744772DP"
+          }
+        },
+        {
+          "name": "U Mobile Prepaid MYR 15 (MY)",
+          "urls": {
+            "G2G": "https://www.g2g.com/categories/umobile-gift-cards/offer/group?region_id=db1c7129-b61d-49af-ac7f-0e411f05c94c&fa=166cbbe6%3Ad3afa318&offer_id=G1775028799449SB",
+            "OG": "https://www.offgamers.com/product/u-mobile-prepaid-gift-cards?offer_id=G1777724584876PS"
+          }
+        },
+        {
+          "name": "U Mobile Prepaid MYR 10 (MY)",
+          "urls": {}
+        }
+      ]
+    }
+  }
+}
