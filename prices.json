@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T03:23:09.231422+00:00",
+  "generated": "2026-06-30T05:24:19.425623+00:00",
   "source": "scrape.py",
   "prices": {
     "MINT": {
@@ -7,13 +7,13 @@
         "G2G": 99.89,
         "OG": 96.96,
         "Seagm": 100.0,
-        "Eneba": 105.1
+        "Eneba": 105.5
       },
       "MINT Prepaid Card USD50 (Global)": {
         "G2G": 49.95,
         "OG": 48.48,
         "Seagm": 50.0,
-        "Eneba": 52.54
+        "Eneba": 52.74
       },
       "MINT Prepaid Card USD30 (Global)": {
         "G2G": 29.97,
@@ -24,7 +24,7 @@
         "G2G": 19.0,
         "OG": 19.39,
         "Seagm": 20.0,
-        "Eneba": 21.01
+        "Eneba": 21.09
       },
       "MINT Prepaid Card USD10 (Global)": {
         "G2G": 9.0,
@@ -48,7 +48,7 @@
         "G2A": "N/A",
         "G2G": 30.4,
         "OG": 29.1,
-        "Kinguin": 30.84,
+        "Kinguin": 31.15,
         "Codashop": 30.0,
         "LapakGaming": 30.0,
         "Eneba": 33.09,
@@ -59,10 +59,10 @@
         "OG": 24.25,
         "G2A": "N/A",
         "Seagm": 24.25,
-        "Kinguin": 25.54,
+        "Kinguin": 25.96,
         "Codashop": 25.0,
         "LapakGaming": 25.0,
-        "Eneba": 25.93,
+        "Eneba": 25.97,
         "MooGold": 24.44
       },
       "Apple iTunes USD20 Gift Card (US)": {
@@ -70,10 +70,10 @@
         "OG": 19.4,
         "G2A": "N/A",
         "Seagm": 19.4,
-        "Kinguin": 20.53,
+        "Kinguin": 20.82,
         "Codashop": 20.0,
         "LapakGaming": 20.0,
-        "Eneba": 21.94,
+        "Eneba": 21.92,
         "MooGold": 19.56
       },
       "Apple iTunes USD15 Gift Card (US)": {
@@ -81,10 +81,10 @@
         "OG": 14.55,
         "G2A": "N/A",
         "Seagm": 14.55,
-        "Kinguin": 15.45,
+        "Kinguin": 15.56,
         "Codashop": 15.0,
         "LapakGaming": 15.0,
-        "Eneba": 16.53,
+        "Eneba": 16.45,
         "MooGold": 14.67
       },
       "Apple iTunes USD10 Gift Card (US)": {
@@ -92,233 +92,248 @@
         "OG": 9.7,
         "G2A": "N/A",
         "Seagm": 9.7,
-        "Kinguin": 11.29,
+        "Kinguin": 10.57,
         "Codashop": 10.0,
         "LapakGaming": 10.0,
-        "Eneba": 10.9,
+        "Eneba": 11.02,
         "MooGold": 9.78
       },
       "Apple iTunes USD5 Gift Card (US)": {
-        "G2G": 5.12,
+        "G2G": 4.95,
         "OG": 4.85,
         "G2A": "N/A",
         "Seagm": 4.85,
-        "Kinguin": 5.25,
+        "Kinguin": 5.37,
         "Codashop": 5.0,
         "LapakGaming": 5.0,
-        "Eneba": 5.43,
+        "Eneba": 5.51,
         "MooGold": 4.89
       },
       "Apple iTunes JPY 50,000 Gift Card (JP)": {
-        "OG": 331.54,
+        "OG": 330.79,
         "G2A": "N/A",
-        "Seagm": 335.06,
-        "Kinguin": 350.18,
-        "Eneba": 371.4
+        "Seagm": 334.27,
+        "Kinguin": 350.0,
+        "Eneba": 379.66,
+        "G2G": 341.08
       },
       "Apple iTunes JPY 30,000 Gift Card (JP)": {
-        "OG": 198.93,
+        "OG": 198.47,
         "G2A": "N/A",
-        "Seagm": 201.04,
-        "Kinguin": 210.17,
-        "Eneba": 222.74
+        "Seagm": 200.57,
+        "Kinguin": 208.13,
+        "Eneba": 227.9,
+        "G2G": 204.65
       },
       "Apple iTunes JPY 10,000 Gift Card (JP)": {
-        "OG": 67.6,
-        "Seagm": 67.01,
+        "OG": 67.44,
+        "Seagm": 66.86,
         "G2A": "N/A",
-        "Kinguin": 71.54,
-        "Eneba": 77.24
+        "Kinguin": 71.5,
+        "Eneba": 77.07,
+        "G2G": 69.55
       },
       "Apple iTunes GBP 100 Gift Card (UK)": {
-        "OG": 135.98,
+        "OG": 136.45,
         "G2A": "N/A",
-        "Seagm": 137.06,
-        "Kinguin": 143.92,
-        "Eneba": 154.49
+        "Seagm": 137.52,
+        "Kinguin": 144.57,
+        "Eneba": 153.65,
+        "G2G": 139.22
       },
       "Apple iTunes GBP 50 Gift Card (UK)": {
-        "OG": 67.98,
-        "Seagm": 68.85,
+        "OG": 68.22,
+        "Seagm": 69.09,
         "G2A": "N/A",
-        "Kinguin": 71.83,
-        "Eneba": 76.36
+        "Kinguin": 66.67,
+        "Eneba": 74.15,
+        "G2G": 40.0
       },
       "Apple iTunes GBP 25 Gift Card (UK)": {
-        "OG": 33.98,
+        "OG": 34.1,
         "G2A": "N/A",
-        "Seagm": 34.85,
-        "Kinguin": 35.39,
-        "Eneba": 37.27
+        "Seagm": 34.97,
+        "Kinguin": 33.34,
+        "Eneba": 37.38,
+        "G2G": 34.8
       },
       "Apple iTunes CNY500 Gift Card (CN)": {
-        "OG": 76.19,
-        "Seagm": 77.27,
+        "OG": 76.16,
+        "Seagm": 77.29,
         "G2A": "N/A",
-        "Kinguin": 76.4,
-        "Eneba": 89.33
+        "Kinguin": 76.81,
+        "Eneba": 89.53
       },
       "Apple iTunes CNY100 Gift Card (CN)": {
-        "OG": 15.35,
-        "Seagm": 15.45,
+        "OG": 15.34,
+        "Seagm": 15.46,
         "G2A": "N/A",
-        "Kinguin": 16.41,
-        "Eneba": 18.2
+        "Kinguin": 16.5,
+        "Eneba": 18.18
       },
       "Apple iTunes CAD 100 Gift Card (CA)": {
-        "G2G": 73.74,
-        "OG": 73.04,
-        "Seagm": 73.67,
+        "G2G": 73.58,
+        "OG": 72.88,
+        "Seagm": 73.51,
         "G2A": "N/A",
-        "Eneba": 80.19
+        "Eneba": 78.47
       },
       "Apple iTunes CAD 50 Gift Card (CA)": {
-        "G2G": 36.83,
-        "OG": 36.48,
+        "G2G": 36.75,
+        "OG": 36.4,
         "G2A": "N/A",
-        "Seagm": 36.84,
-        "Eneba": 41.59
+        "Seagm": 36.75,
+        "Eneba": 40.41
       },
       "Apple iTunes CAD 25 Gift Card (CA)": {
-        "G2G": 18.42,
-        "OG": 18.24,
+        "G2G": 18.38,
+        "OG": 18.2,
         "G2A": "N/A",
-        "Seagm": 18.42,
-        "Kinguin": 19.35,
-        "Eneba": 20.47
+        "Seagm": 18.38,
+        "Kinguin": 20.26,
+        "Eneba": 20.06
       },
       "Apple iTunes EUR 100 Gift Card (DE)": {
-        "OG": 116.28,
+        "OG": 116.66,
         "G2A": "N/A",
-        "Seagm": 114.34,
-        "Kinguin": 115.02,
-        "Eneba": 121.77
+        "Seagm": 114.69,
+        "Kinguin": 115.64,
+        "Eneba": 129.82,
+        "G2G": 118.99
       },
       "Apple iTunes EUR 50 Gift Card (DE)": {
-        "OG": 57.3,
+        "OG": 57.49,
         "G2A": "N/A",
-        "Seagm": 57.16,
-        "Kinguin": 57.51,
-        "Eneba": 63.37
+        "Seagm": 57.34,
+        "Kinguin": 51.92,
+        "Eneba": 57.44,
+        "G2G": 58.64
       },
       "Apple iTunes EUR 25 Gift Card (DE)": {
-        "OG": 29.07,
+        "OG": 29.16,
         "G2A": "N/A",
-        "Seagm": 28.73,
-        "Kinguin": 30.69,
-        "Eneba": 29.48
+        "Seagm": 28.82,
+        "Kinguin": 28.91,
+        "Eneba": 29.53,
+        "G2G": 29.75
       },
       "Apple iTunes USD500 Gift Card (US)": {
         "OG": 485.0,
         "G2A": "N/A",
         "Seagm": 485.0,
-        "Kinguin": 511.55,
+        "Kinguin": 515.57,
         "Codashop": 500.0,
         "LapakGaming": 500.0,
         "Eneba": "N/A",
-        "MooGold": 488.8
+        "MooGold": 488.8,
+        "G2G": 504.01
       },
       "Apple iTunes USD400 Gift Card (US)": {
         "OG": 388.0,
         "G2A": "N/A",
         "Seagm": 388.0,
         "MooGold": 391.04,
-        "Kinguin": 416.88,
+        "Kinguin": 420.03,
         "Codashop": 400.0,
         "LapakGaming": 400.0,
-        "Eneba": "N/A"
+        "Eneba": "N/A",
+        "G2G": 403.21
       },
       "Apple iTunes USD300 Gift Card (US)": {
         "OG": 291.0,
         "G2A": "N/A",
         "Seagm": 291.0,
-        "Kinguin": 307.11,
+        "Kinguin": 307.87,
         "Codashop": 300.0,
         "LapakGaming": 300.0,
         "Eneba": "N/A",
-        "MooGold": 293.28
+        "MooGold": 293.28,
+        "G2G": 302.41
       },
       "Apple iTunes USD200 Gift Card (US)": {
         "OG": 193.98,
         "G2A": "N/A",
         "Seagm": 194.0,
-        "Kinguin": 204.6,
+        "Kinguin": 208.37,
         "Codashop": 200.0,
         "LapakGaming": 200.0,
         "Eneba": "N/A",
-        "MooGold": 195.52
+        "MooGold": 195.52,
+        "G2G": 201.71
       },
       "Apple iTunes USD100 Gift Card (US)": {
         "OG": 97.0,
         "G2A": "N/A",
         "Seagm": 97.0,
-        "Kinguin": 102.2,
+        "Kinguin": 92.63,
         "Codashop": 100.0,
         "LapakGaming": 100.0,
-        "Eneba": 103.9,
-        "MooGold": 97.76
+        "Eneba": 101.37,
+        "MooGold": 97.76,
+        "G2G": 102.04
       },
       "Apple iTunes USD50 Gift Card (US)": {
         "G2G": 51.02,
         "OG": 48.5,
         "G2A": "N/A",
         "Seagm": 48.5,
-        "Kinguin": 50.96,
+        "Kinguin": 48.97,
         "Codashop": 50.0,
         "LapakGaming": 50.0,
-        "Eneba": 50.98,
+        "Eneba": 51.82,
         "MooGold": 48.88
       },
       "Apple iTunes USD40 Gift Card (US)": {
         "OG": 38.8,
         "Seagm": 38.8,
         "G2A": "N/A",
-        "Kinguin": 41.09,
+        "Kinguin": 41.8,
         "Codashop": 40.0,
         "LapakGaming": 40.0,
         "Eneba": 43.6,
-        "MooGold": 39.11
+        "MooGold": 39.11,
+        "G2G": 40.39
       }
     },
     "DaddySkins": {
       "DaddySkins USD10 Gift Card (Global)": {
         "G2G": 9.69,
         "OG": 9.5,
-        "Kinguin": 10.56,
+        "Kinguin": 10.62,
         "Eneba": "N/A"
       },
       "DaddySkins USD5 Gift Card (Global)": {
         "G2G": 4.85,
         "OG": 4.75,
-        "Kinguin": 5.29,
+        "Kinguin": 5.32,
         "Eneba": "N/A"
       },
       "DaddySkins USD200 Gift Card (Global)": {
         "G2G": 193.89,
         "OG": 190.0,
         "G2A": "N/A",
-        "Kinguin": 201.87,
+        "Kinguin": 202.96,
         "Eneba": "N/A"
       },
       "DaddySkins USD100 Gift Card (Global)": {
         "G2G": 9.69,
         "OG": 95.0,
         "G2A": "N/A",
-        "Kinguin": 100.94,
+        "Kinguin": 101.48,
         "Eneba": "N/A"
       },
       "DaddySkins USD50 Gift Card (Global)": {
         "G2G": 48.47,
         "OG": 47.5,
         "G2A": "N/A",
-        "Kinguin": 50.47,
+        "Kinguin": 50.74,
         "Eneba": "N/A"
       },
       "DaddySkins USD25 Gift Card (Global)": {
         "G2G": 24.23,
         "OG": 23.75,
         "G2A": "N/A",
-        "Kinguin": 25.82,
+        "Kinguin": 25.96,
         "Eneba": "N/A"
       }
     },
@@ -335,38 +350,38 @@
       "Nutaku.com 10,000 Gold (Global)": {
         "G2G": 98.82,
         "OG": 94.91,
-        "Kinguin": 156.08,
-        "Eneba": 156.82
+        "Kinguin": 156.92,
+        "Eneba": 157.44
       },
       "Nutaku.com 5,000 Gold (Global)": {
         "G2G": 49.41,
         "OG": 47.45,
-        "Kinguin": 78.6,
-        "Eneba": 78.92
+        "Kinguin": 79.02,
+        "Eneba": 79.23
       },
       "Nutaku.com 3,000 Gold (Global)": {
         "G2G": 29.64,
         "OG": 28.47,
-        "Kinguin": 48.56,
-        "Eneba": 47.65
+        "Kinguin": 48.82,
+        "Eneba": 47.73
       },
       "Nutaku.com 2,000 Gold (Global)": {
-        "G2G": 19.76,
+        "G2G": 19.77,
         "OG": 18.98,
-        "Kinguin": 32.36,
-        "Eneba": 31.86
+        "Kinguin": 32.53,
+        "Eneba": 31.99
       },
       "Nutaku.com 1,000 Gold (Global)": {
         "G2G": 9.88,
         "OG": 9.49,
-        "Kinguin": 16.16,
-        "Eneba": 13.95
+        "Kinguin": 16.25,
+        "Eneba": 14.0
       },
       "Nutaku.com 500 Gold (Global)": {
         "G2G": 4.94,
         "OG": 4.75,
-        "Kinguin": 7.96,
-        "Eneba": 7.17
+        "Kinguin": 8.0,
+        "Eneba": 7.15
       },
       "Nutaku.net 30,000 Gold (Global)": {
         "G2G": 296.45,
@@ -389,7 +404,7 @@
         "OG": 28.47
       },
       "Nutaku.net 2,000 Gold (Global)": {
-        "G2G": 19.76,
+        "G2G": 19.77,
         "OG": 18.98
       },
       "Nutaku.net 1,000 Gold (Global)": {
@@ -403,88 +418,88 @@
     },
     "Johren": {
       "Johren 30,000 Credits (Global)": {
-        "G2G": 183.21,
-        "OG": 178.61
+        "G2G": 182.8,
+        "OG": 178.21
       },
       "Johren 20,000 Credits (Global)": {
-        "G2G": 122.14,
-        "OG": 119.07
+        "G2G": 121.86,
+        "OG": 118.8
       },
       "Johren 10,000 Credits (Global)": {
-        "G2G": 61.07,
-        "OG": 59.54
+        "G2G": 60.93,
+        "OG": 59.4
       },
       "Johren 5,000 Credits (Global)": {
-        "G2G": 30.54,
-        "OG": 29.77
+        "G2G": 30.47,
+        "OG": 29.7
       },
       "Johren 3,000 Credits (Global)": {
-        "G2G": 18.33,
-        "OG": 17.86
+        "G2G": 18.28,
+        "OG": 17.82
       },
       "Johren 2,000 Credits (Global)": {
-        "G2G": 12.22,
-        "OG": 11.91
+        "G2G": 12.19,
+        "OG": 11.88
       },
       "Johren 1,000 Credits (Global)": {
-        "G2G": 6.11,
-        "OG": 5.95
+        "G2G": 6.1,
+        "OG": 5.94
       },
       "Johren 500 Credits (Global)": {
-        "G2G": 3.06,
-        "OG": 2.98
+        "G2G": 3.05,
+        "OG": 2.97
       }
     },
     "Gift Me Crypto": {
       "Gift Me Crypto EUR200 (EU)": {
-        "OG": 227.11,
+        "OG": 227.84,
         "G2A": "N/A"
       },
       "Gift Me Crypto EUR100 (EU)": {
-        "OG": 113.56,
+        "OG": 113.92,
         "G2A": "N/A",
-        "Seagm": 115.9,
-        "Kinguin": 117.71,
-        "Eneba": 128.92
+        "Seagm": 116.26,
+        "Kinguin": 118.34,
+        "Eneba": 129.1
       },
       "Gift Me Crypto EUR50 (EU)": {
-        "OG": 56.78,
+        "OG": 56.96,
         "G2A": "N/A",
-        "Seagm": 57.95,
-        "Kinguin": 58.94,
-        "Eneba": 64.3
+        "Seagm": 58.13,
+        "Kinguin": 59.26,
+        "Eneba": 64.55
       },
       "Gift Me Crypto EUR20 (EU)": {
-        "OG": 22.71,
+        "OG": 22.78,
         "G2A": "N/A",
-        "Seagm": 22.72,
-        "Eneba": 25.71,
-        "Kinguin": 23.67
+        "Seagm": 22.79,
+        "Eneba": 26.52,
+        "Kinguin": 23.8
       },
       "Gift Me Crypto EUR10 (EU)": {
-        "OG": 11.36,
+        "OG": 11.39,
         "G2A": "N/A",
-        "Seagm": 11.59,
-        "Kinguin": 11.94,
-        "Eneba": 12.83
+        "Seagm": 11.63,
+        "Kinguin": 11.98,
+        "Eneba": 12.89
       },
       "Gift Me Crypto USD200 (US)": {
         "OG": 195.9,
         "G2A": "N/A",
-        "Kinguin": 206.37
+        "Kinguin": 207.48
       },
       "Gift Me Crypto USD100 (US)": {
         "OG": 97.95,
         "Seagm": 98.0,
         "G2A": "N/A",
-        "Kinguin": 104.33,
+        "Kinguin": 103.83,
         "Eneba": 113.01
       },
       "Gift Me Crypto USD50 (US)": {
         "OG": 48.97,
         "G2A": "N/A",
         "Seagm": 49.0,
-        "Kinguin": 51.72,
+        "Kinguin": 51.24,
         "Eneba": 56.11
       },
       "Gift Me Crypto USD20 (US)": {
@@ -497,160 +512,160 @@
         "OG": 9.79,
         "G2A": "N/A",
         "Seagm": 9.8,
-        "Eneba": 11.25
+        "Eneba": 11.57
       }
     },
     "MyCard": {
       "MyCard 10,000 Points (TW)": {
-        "G2G": 293.84,
-        "OG": 298.57,
-        "Seagm": 294.56
+        "G2G": 295.49,
+        "OG": 299.09,
+        "Seagm": 294.61
       },
       "MyCard 5,000 Points (TW)": {
-        "G2G": 159.19,
-        "OG": 149.28,
-        "Seagm": 147.28
+        "G2G": 159.47,
+        "OG": 149.55,
+        "Seagm": 147.31
       },
       "MyCard 3,290 Points (TW)": {
-        "G2G": 11.14,
-        "OG": 98.24,
-        "Seagm": 96.91
+        "G2G": 11.16,
+        "OG": 98.41,
+        "Seagm": 96.93
       },
       "MyCard 3,000 Points (TW)": {
-        "G2G": 93.52,
-        "OG": 89.57,
-        "Seagm": 88.37
+        "G2G": 94.05,
+        "OG": 89.73,
+        "Seagm": 88.38
       },
       "MyCard 2500 Points (TW)": {
-        "G2G": 79.6,
-        "OG": 74.64,
-        "Seagm": 73.64
+        "G2G": 79.74,
+        "OG": 74.77,
+        "Seagm": 73.66
       },
       "MyCard 2,000 Points (TW)": {
-        "G2G": 63.68,
-        "OG": 59.71,
-        "Seagm": 58.91
+        "G2G": 63.79,
+        "OG": 59.82,
+        "Seagm": 58.92
       },
       "MyCard 1690 Points (TW)": {
-        "G2G": 53.81,
-        "OG": 50.46,
-        "Seagm": 49.78
+        "G2G": 53.91,
+        "OG": 50.55,
+        "Seagm": 49.79
       },
       "MyCard 1490 Points (TW)": {
-        "G2G": 47.44,
-        "OG": 44.49,
-        "Seagm": 43.89
+        "G2G": 47.53,
+        "OG": 44.57,
+        "Seagm": 43.9
       },
       "MyCard 1150 Points (TW)": {
-        "G2G": 36.61,
-        "OG": 34.34,
-        "Seagm": 33.87
+        "G2G": 36.68,
+        "OG": 34.4,
+        "Seagm": 33.88
       },
       "MyCard 1,000 Points (TW)": {
-        "G2G": 31.84,
-        "OG": 29.86,
-        "Seagm": 29.45
+        "G2G": 31.9,
+        "OG": 29.91,
+        "Seagm": 29.46
       },
       "MyCard 750 Points (TW)": {
-        "G2G": 23.88,
-        "OG": 22.39,
-        "Seagm": 22.09
+        "G2G": 23.92,
+        "OG": 22.43,
+        "Seagm": 22.1
       },
       "MyCard 500 Points (TW)": {
-        "G2G": 15.92,
-        "OG": 14.93,
-        "Seagm": 14.73
+        "G2G": 15.95,
+        "OG": 14.95,
+        "Seagm": 14.74
       },
       "MyCard 400 Points (TW)": {
-        "G2G": 12.74,
-        "OG": 11.94,
+        "G2G": 12.76,
+        "OG": 11.96,
         "Seagm": 11.78
       },
       "MyCard 350 Points (TW)": {
-        "G2G": 11.14,
-        "OG": 10.45,
+        "G2G": 11.16,
+        "OG": 10.47,
         "Seagm": 10.31
       },
       "MyCard 170 Points (TW)": {
-        "G2G": 5.41,
+        "G2G": 5.42,
         "OG": 5.08,
         "Seagm": 5.0
       },
       "MyCard 150 Points (TW)": {
         "G2G": 4.78,
-        "OG": 4.48,
+        "OG": 4.49,
         "Seagm": 4.52
       },
       "MyCard 90 Points (TW)": {
-        "G2G": 2.87,
-        "OG": 2.69,
+        "G2G": 2.88,
+        "OG": 2.7,
         "Seagm": 2.71
       },
       "MyCard 50 Points (TW)": {
         "G2G": 1.59,
-        "OG": 1.49,
+        "OG": 1.5,
         "Seagm": 1.5
       },
       "MyCard 30 Points (TW)": {
-        "G2G": 0.93,
+        "G2G": 0.94,
         "OG": 0.88,
         "Seagm": 0.91
       }
     },
     "Mobile Legends Bang Bang": {
       "Mobile Legend 1,163 Diamonds (Global)": {
-        "G2G": 17.03,
-        "Seagm": 18.26,
-        "LapakGaming": 18.65,
-        "Moogold": 15.64
+        "G2G": 17.08,
+        "Seagm": 18.27,
+        "LapakGaming": 18.31,
+        "Moogold": 15.55
       },
       "Mobile Legend 9,288 Diamonds (Global)": {
-        "G2G": 120.17,
-        "Seagm": 136.74,
-        "Kinguin": 151.11,
-        "LapakGaming": 122.68,
+        "G2G": 120.84,
+        "Seagm": 136.92,
+        "Kinguin": 151.93,
+        "LapakGaming": 121.81,
         "Eneba": 139.22,
-        "Moogold": 122.36
+        "Moogold": 123.29
       },
       "Mobile Legend 6,042 Diamond (Global)": {
-        "G2G": 84.26,
-        "Seagm": 91.3,
-        "Kinguin": 85.83,
-        "LapakGaming": 93.25,
-        "Moogold": 78.18
+        "G2G": 84.78,
+        "Seagm": 91.35,
+        "Kinguin": 86.29,
+        "LapakGaming": 91.56,
+        "Moogold": 77.76
       },
       "Mobile Legend 3,688 Diamond (Global)": {
-        "G2G": 48.96,
-        "Seagm": 54.69,
-        "Kinguin": 62.85,
-        "LapakGaming": 49.07,
+        "G2G": 49.22,
+        "Seagm": 54.77,
+        "Kinguin": 63.19,
+        "LapakGaming": 48.72,
         "Eneba": 53.18,
-        "Moogold": 48.79
+        "Moogold": 49.16
       },
       "Mobile Legend 2,195 Diamond (Global)": {
-        "G2G": 29.69,
-        "Seagm": 32.82,
-        "Kinguin": 31.43,
+        "G2G": 29.87,
+        "Seagm": 32.86,
+        "Kinguin": 31.6,
         "Eneba": 31.97,
-        "Moogold": 29.25
+        "Moogold": 29.47
       }
     },
     "Pokemon Go": {
       "14,500 + 1,000 PokéCoins": {
-        "G2G": 30.33,
-        "Kinguin": 38.64
+        "G2G": 30.5,
+        "Kinguin": 38.26
       },
       "5,200 + 400 PokéCoins": {
-        "G2G": 13.32,
-        "Kinguin": 14.5
+        "G2G": 13.4,
+        "Kinguin": 14.58
       },
       "1,200 + 100 PokéCoins": {
-        "G2G": 3.52,
-        "Kinguin": 4.45
+        "G2G": 3.53,
+        "Kinguin": 4.47
       },
       "100 + 10 PokéCoins": {
         "G2G": 1.0,
-        "Kinguin": 6.8
+        "Kinguin": 6.83
       },
       "Go Pass Deluxe: Current Month": {
         "G2G": 4.5
@@ -658,68 +673,68 @@
     },
     "Zenless Zone Zero": {
       "DTU Zenless Zone Zero 6,480 + 1,600 Monochrome (Global)": {
-        "G2G": 79.8
+        "G2G": 52.71
       },
       "DTU Zenless Zone Zero 3,280 + 600 Monochrome (Global)": {
-        "G2G": 40.89,
-        "Kinguin": 34.49
+        "G2G": 33.18,
+        "Kinguin": 40.7
       },
       "DTU Zenless Zone Zero 1,980 + 260 Monochrome (Global)": {
         "G2G": 24.89,
-        "Kinguin": 25.81
+        "Kinguin": 25.95
       },
       "DTU Zenless Zone Zero Inter-Knot Membership (Global)": {
         "G2G": 4.39,
-        "Kinguin": 4.68
+        "Kinguin": 4.71
       },
       "DTU Zenless Zone Zero All Pack Monochrome (Global)": {
         "G2G": 167.49,
-        "Kinguin": 160.78
+        "Kinguin": 161.65
       }
     },
     "Crypto Voucher": {
       "Crypto Voucher EUR 200 (EU)": {
-        "OG": 245.36,
+        "OG": 246.15,
         "G2A": "N/A",
-        "Kinguin": 249.53,
-        "Eneba": 239.13
+        "Kinguin": 250.87,
+        "Eneba": 240.06
       },
       "Crypto Voucher EUR 150 (EU)": {
         "G2A": "N/A",
         "OG": "N/A",
-        "Eneba": 201.76
+        "Eneba": 207.04
       },
       "Crypto Voucher EUR 100 (EU)": {
-        "OG": 123.91,
+        "OG": 124.31,
         "G2A": "N/A",
-        "Seagm": 121.39,
-        "Kinguin": 125.88,
-        "Eneba": 137.25
+        "Seagm": 121.77,
+        "Kinguin": 126.56,
+        "Eneba": 137.79
       },
       "Crypto Voucher EUR 50 (EU)": {
-        "OG": 61.34,
+        "OG": 61.54,
         "G2A": "N/A",
-        "Seagm": 60.7,
-        "Kinguin": 63.03,
-        "Eneba": 68.93
+        "Seagm": 60.89,
+        "Kinguin": 63.37,
+        "Eneba": 69.02
       },
       "Crypto Voucher EUR 25 (EU)": {
-        "OG": 30.67,
+        "OG": 30.77,
         "G2A": "N/A",
-        "Seagm": 30.35,
-        "Kinguin": 31.41,
-        "Eneba": 34.38
+        "Seagm": 30.45,
+        "Kinguin": 31.58,
+        "Eneba": 34.52
       },
       "Crypto Voucher EUR 10 (EU)": {
-        "OG": 12.27,
+        "OG": 12.31,
         "G2A": "N/A",
-        "Seagm": 12.14,
+        "Seagm": 12.18,
         "Eneba": 14.41
       },
       "Crypto Voucher USD 200 (US)": {
         "OG": 211.64,
         "G2A": "N/A",
-        "Eneba": 242.29
+        "Eneba": 242.67
       },
       "Crypto Voucher USD 100 (US)": {
         "OG": 105.82,
@@ -737,13 +752,13 @@
         "OG": 26.46,
         "Seagm": 26.06,
         "G2A": "N/A",
-        "Eneba": 30.21
+        "Eneba": 30.33
       },
       "Crypto Voucher USD 10 (US)": {
         "OG": 10.58,
         "G2A": "N/A",
         "Seagm": 10.42,
-        "Eneba": 12.09
+        "Eneba": 12.48
       }
     },
     "RBL": {
@@ -751,21 +766,21 @@
         "G2G": 225.92,
         "OG": 190.45,
         "G2A": "N/A",
-        "ItemkuEN": 195.3
+        "ItemkuEN": 196.42
       },
       "RBL Game Card USD 100 (US)": {
         "G2G": 98.66,
         "OG": 94.76,
         "G2A": "N/A",
-        "ItemkuEN": 96.13
+        "ItemkuEN": 96.48
       },
       "RBL Game Card USD 50 (US)": {
-        "G2G": 47.33,
+        "G2G": 47.5,
         "Seagm": 46.0,
         "G2A": "N/A",
         "Codashop": 50.0,
         "Moogold": 47.32,
-        "ItemkuEN": 46.78
+        "ItemkuEN": 46.71
       },
       "RBL Game Card USD 25 (US)": {
         "G2G": 23.3,
@@ -774,56 +789,56 @@
         "Seagm": 23.0,
         "Codashop": 25.0,
         "Moogold": 23.66,
-        "ItemkuEN": 23.83
+        "ItemkuEN": 23.97
       },
       "RBL Game Card USD 10 (US)": {
-        "G2G": 9.15,
+        "G2G": 9.25,
         "OG": 9.54,
         "G2A": "N/A",
         "Seagm": 9.2,
         "Codashop": 10.0,
         "Moogold": 9.47,
-        "ItemkuEN": 9.67
+        "ItemkuEN": 10.0
       },
       "Rbl 32,500 Rbx": {
         "G2G": 130.0
       },
       "Rbl 22,500 Rbx": {
         "G2G": 70.0,
-        "Kinguin": 170.16,
+        "Kinguin": 171.08,
         "Eneba": 142.24,
         "ItemkuEN": "N/A"
       },
       "Rbl 10,000 Rbx": {
         "G2G": 39.0,
-        "Kinguin": 84.99,
+        "Kinguin": 85.44,
         "LapakGaming": 101.03,
-        "Eneba": 111.44,
+        "Eneba": 108.1,
         "ItemkuEN": "N/A"
       },
       "Rbl 4,500 Rbx": {
         "G2G": 21.0,
-        "Kinguin": 41.07,
-        "Eneba": 52.15,
-        "ItemkuEN": 46.14
+        "Kinguin": 41.29,
+        "Eneba": 52.1,
+        "ItemkuEN": 46.42
       },
       "Rbl 3,700 Rbx": {
-        "G2G": 20.35
+        "G2G": 21.3
       },
       "Rbl 1,000 Rbx": {
-        "G2G": 4.65,
-        "Kinguin": 9.17,
-        "Eneba": 12.39,
-        "ItemkuEN": 11.06
+        "G2G": 4.56,
+        "Kinguin": 10.01,
+        "Eneba": 12.31,
+        "ItemkuEN": 11.11
       }
     },
     "Apple Gift Card": {
       "Apple Gift Card USD 500  (US)": {
-        "G2G": 508.41,
+        "G2G": 475.0,
         "OG": 488.29,
         "G2A": "N/A",
         "Seagm": 485.0,
-        "Kinguin": 511.27,
+        "Kinguin": 516.03,
         "Eneba": 548.6
       },
       "Apple Gift Card USD 400  (US)": {
@@ -831,7 +846,7 @@
         "OG": 392.0,
         "G2A": "N/A",
         "Seagm": 388.0,
-        "Kinguin": 409.03,
+        "Kinguin": 413.31,
         "Eneba": 438.88
       },
       "Apple Gift Card USD 300  (US)": {
@@ -839,31 +854,31 @@
         "OG": 292.98,
         "G2A": "N/A",
         "Seagm": 291.0,
-        "Kinguin": 306.81,
+        "Kinguin": 308.48,
         "Eneba": 329.15
       },
       "Apple Gift Card USD 200  (US)": {
-        "G2G": 188.0,
+        "G2G": 185.0,
         "OG": 195.32,
         "G2A": "N/A",
         "Seagm": 194.0,
-        "Kinguin": 205.38,
-        "Eneba": 219.43
+        "Kinguin": 208.37,
+        "Eneba": 214.66
       },
       "Apple Gift Card USD 150  (US)": {
         "G2G": 160.0,
         "OG": 147.0,
         "G2A": "N/A",
         "Seagm": 145.5,
-        "Kinguin": 153.48,
-        "Eneba": 164.59
+        "Kinguin": 152.42,
+        "Eneba": 164.58
       },
       "Apple Gift Card USD 100  (US)": {
-        "G2G": 90.0,
+        "G2G": 88.0,
         "OG": 97.66,
         "G2A": "N/A",
         "Seagm": 97.0,
-        "Kinguin": 90.7,
+        "Kinguin": 97.82,
         "Eneba": 109.72
       },
       "Apple Gift Card USD 50  (US)": {
@@ -871,64 +886,64 @@
         "OG": 48.82,
         "G2A": "N/A",
         "Seagm": 48.5,
-        "Kinguin": 50.68,
+        "Kinguin": 50.96,
         "Eneba": 55.08
       },
       "Apple Gift Card USD 40 (US)": {
-        "G2G": 40.58,
+        "G2G": 40.61,
         "OG": 39.07,
         "G2A": "N/A",
         "Seagm": 38.8,
-        "Kinguin": 41.06,
+        "Kinguin": 41.26,
         "Eneba": 43.89
       },
       "Apple Gift Card USD 30  (US)": {
-        "G2G": 28.0,
+        "G2G": 25.0,
         "OG": 29.3,
         "G2A": "N/A",
         "Seagm": 29.1,
-        "Kinguin": 30.87,
-        "Eneba": 32.92
+        "Kinguin": 32.95,
+        "Eneba": 32.91
       },
       "Apple Gift Card USD 25  (US)": {
         "G2G": 25.0,
         "OG": 24.42,
         "G2A": "N/A",
         "Seagm": 24.25,
-        "Kinguin": 25.75,
+        "Kinguin": 25.96,
         "Eneba": 27.43
       },
       "Apple Gift Card USD 20  (US)": {
-        "G2G": 19.0,
+        "G2G": 19.98,
         "OG": 19.53,
         "G2A": "N/A",
         "Seagm": 19.4,
-        "Kinguin": 20.65,
-        "Eneba": 21.94
+        "Kinguin": 20.8,
+        "Eneba": 21.46
       },
       "Apple Gift Card USD 15 (US)": {
-        "G2G": 15.0,
+        "G2G": 14.96,
         "OG": 14.55,
         "G2A": "N/A",
         "Seagm": 14.55,
-        "Kinguin": 14.55,
+        "Kinguin": 14.63,
         "Eneba": 16.46
       },
       "Apple Gift Card USD 10  (US)": {
-        "G2G": 9.49,
+        "G2G": 9.4,
         "OG": 9.77,
         "G2A": "N/A",
         "Seagm": 9.7,
-        "Kinguin": 10.48,
+        "Kinguin": 10.51,
         "Eneba": 10.97
       },
       "Apple Gift Card USD 5  (US)": {
-        "G2G": 5.0,
+        "G2G": 4.98,
         "OG": 4.85,
         "G2A": "N/A",
         "Seagm": 4.85,
-        "Kinguin": 5.29,
-        "Eneba": 5.51
+        "Kinguin": 6.07,
+        "Eneba": 5.41
       }
     },
     "Wuthering Waves": {
@@ -939,86 +954,86 @@
         "Kinguin": 0.83
       },
       "300 + 30 Lunites": {
-        "G2G": 4.35,
+        "G2G": 4.38,
         "G2A": "N/A",
         "Seagm": 4.29,
-        "Kinguin": 3.9,
-        "ItemkuEN": 4.22
+        "Kinguin": 3.29,
+        "ItemkuEN": 4.35
       },
       "980 + 110 Lunites": {
-        "G2G": 13.03,
+        "G2G": 13.07,
         "G2A": "N/A",
         "Seagm": 12.89,
-        "Kinguin": 11.64,
+        "Kinguin": 11.59,
         "ItemkuEN": 14.39
       },
       "1,980 + 260 Lunites": {
-        "G2G": 26.42,
+        "G2G": 26.43,
         "G2A": "N/A",
         "Seagm": 25.79,
-        "Kinguin": 23.25,
-        "ItemkuEN": 26.06
+        "Kinguin": 23.15,
+        "ItemkuEN": 26.09
       },
       "3,280 + 600 Lunites": {
-        "G2G": 43.42,
+        "G2G": 43.44,
         "G2A": "N/A",
         "Seagm": 42.99,
-        "Kinguin": 38.73,
-        "ItemkuEN": 43.12
+        "Kinguin": 38.57,
+        "ItemkuEN": 43.24
       },
       "Lunite Subscription": {
-        "G2G": 4.25,
+        "G2G": 4.28,
         "G2A": "N/A",
         "Seagm": 4.29,
         "ItemkuEN": "N/A",
-        "Kinguin": 3.9
+        "Kinguin": 3.88
       },
       "Insider Channel": {
-        "G2G": 8.66,
-        "Kinguin": 9.38
+        "G2G": 8.71,
+        "Kinguin": 9.43
       }
     },
     "WOW Prepaid GC": {
       "WOW Prepaid Game Card 60 Days (US)": {
-        "G2G": 23.12,
+        "G2G": 22.56,
         "G2A": "N/A",
         "Seagm": 26.78,
-        "Kinguin": 25.55
+        "Kinguin": 25.81
       },
       "WOW Prepaid Game Card 60 Days (EU)": {
         "G2G": 13.0,
         "G2A": "N/A",
-        "Seagm": 30.99,
-        "Kinguin": 30.16
+        "Seagm": 31.08,
+        "Kinguin": 31.0
       }
     },
     "Honkai Star Rail": {
       "Honkai: Star Rail 9,760 + 2,200 Oneiric Shard (Global)": {
         "G2G": 120.6,
-        "Kinguin": 145.6
+        "Kinguin": 147.71
       },
       "Honkai: Star Rail 6,480 + 1,600 Oneiric Shard (Global)": {
         "G2G": 77.99,
-        "Kinguin": 76.28,
+        "Kinguin": 76.69,
         "Codashop": 99.99,
         "LapakGaming": 99.99,
         "Unipin": "N/A"
       },
       "Honkai: Star Rail 3,280 + 600 Oneiric Shard (Global)": {
         "G2G": 40.49,
-        "Kinguin": 40.48,
+        "Kinguin": 40.7,
         "Codashop": 49.99,
         "LapakGaming": 49.99,
         "Unipin": "N/A"
       },
       "Honkai: Star Rail All Pack Oneiric Shard (Global)": {
         "G2G": 162.49,
-        "Kinguin": 160.78
+        "Kinguin": 161.65
       },
       "Honkai: Star Rail Express Supply Pass (Global)": {
         "G2G": 4.4,
         "G2A": "N/A",
-        "Kinguin": 4.07,
+        "Kinguin": 4.8,
         "Codashop": 99.99,
         "LapakGaming": 0.69,
         "Unipin": "N/A"
@@ -1026,163 +1041,163 @@
     },
     "Flexepin": {
       "Flexepin CAD500 (CA)": {
-        "G2G": 378.17,
-        "OG": 370.62,
+        "G2G": 377.34,
+        "OG": 369.81,
         "G2A": "N/A",
-        "Seagm": 371.92,
-        "Kinguin": 393.48,
-        "Eneba": 386.69
+        "Seagm": 371.07,
+        "Kinguin": 396.17,
+        "Eneba": 388.2
       },
       "Flexepin CAD300 (CA)": {
-        "G2G": 226.9,
-        "OG": 222.37,
+        "G2G": 226.41,
+        "OG": 221.89,
         "G2A": "N/A",
-        "Seagm": 223.15,
-        "Kinguin": 234.67,
+        "Seagm": 222.64,
+        "Kinguin": 236.12,
         "Eneba": 232.02
       },
       "Flexepin CAD250 (CA)": {
-        "G2G": 189.08,
-        "OG": 185.31,
+        "G2G": 188.67,
+        "OG": 184.91,
         "G2A": "N/A",
-        "Seagm": 185.96,
-        "Kinguin": 196.44,
-        "Eneba": 193.35
+        "Seagm": 185.54,
+        "Kinguin": 197.78,
+        "Eneba": 194.1
       },
       "Flexepin CAD150 (CA)": {
-        "G2G": 113.45,
-        "OG": 111.18,
+        "G2G": 113.2,
+        "OG": 110.94,
         "G2A": "N/A",
-        "Seagm": 111.58,
-        "Kinguin": 116.95,
+        "Seagm": 111.32,
+        "Kinguin": 118.48,
         "Eneba": 116.01
       },
       "Flexepin CAD100 (CA)": {
-        "G2G": 75.63,
-        "OG": 74.12,
+        "G2G": 75.47,
+        "OG": 73.96,
         "G2A": "N/A",
-        "Seagm": 74.38,
-        "Kinguin": 78.05,
-        "Eneba": 77.34
+        "Seagm": 74.21,
+        "Kinguin": 79.05,
+        "Eneba": 77.64
       },
       "Flexepin CAD50 (CA)": {
-        "G2G": 37.82,
-        "OG": 37.06,
+        "G2G": 37.73,
+        "OG": 36.98,
         "G2A": "N/A",
-        "Seagm": 37.19,
-        "Kinguin": 39.34,
+        "Seagm": 37.11,
+        "Kinguin": 39.86,
         "Eneba": 38.67
       },
       "Flexepin CAD30 (CA)": {
-        "G2G": 22.69,
-        "OG": 22.24,
+        "G2G": 22.64,
+        "OG": 22.19,
         "G2A": "N/A",
-        "Seagm": 22.32,
-        "Kinguin": 23.61,
-        "Eneba": 23.04
+        "Seagm": 22.26,
+        "Kinguin": 23.82,
+        "Eneba": 23.13
       },
       "Flexepin CAD20 (CA)": {
-        "G2G": 15.12,
-        "OG": 14.82,
+        "G2G": 15.09,
+        "OG": 14.79,
         "G2A": "N/A",
-        "Seagm": 14.88,
-        "Kinguin": 15.83,
+        "Seagm": 14.84,
+        "Kinguin": 15.94,
         "Eneba": 15.47
       },
       "Flexepin EUR200 (EU)": {
-        "G2G": 244.06,
-        "OG": 241.74,
+        "G2G": 244.85,
+        "OG": 242.52,
         "G2A": "N/A",
-        "Seagm": 236.95,
-        "Kinguin": 247.8
+        "Seagm": 237.69,
+        "Kinguin": 249.13
       },
       "Flexepin EUR100 (EU)": {
-        "G2G": 122.03,
-        "OG": 120.87,
-        "Seagm": 118.56,
+        "G2G": 122.43,
+        "OG": 121.26,
+        "Seagm": 118.93,
         "G2A": "N/A",
-        "Kinguin": 123.97
+        "Kinguin": 126.38
       },
       "Flexepin EUR50 (EU)": {
-        "G2G": 61.02,
-        "OG": 60.43,
-        "Seagm": 59.35,
+        "G2G": 61.21,
+        "OG": 60.63,
+        "Seagm": 59.54,
         "G2A": "N/A",
-        "Kinguin": 61.43
+        "Kinguin": 61.76
       },
       "Flexepin EUR30 (EU)": {
-        "G2G": 36.61,
-        "OG": 36.26,
+        "G2G": 36.73,
+        "OG": 36.38,
         "G2A": "N/A",
-        "Seagm": 35.67,
-        "Kinguin": 36.9
+        "Seagm": 35.78,
+        "Kinguin": 37.3
       }
     },
     "Discord": {
       "DC Nitro Membership 1 Year Code": {
-        "G2G": 35.0,
+        "G2G": 46.0,
         "OG": 88.61,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 80.84,
+        "Kinguin": 81.28,
         "Eneba": 98.6,
         "Moogold": 4.5
       },
       "DC Nitro Membership 1 Month Code": {
-        "G2G": 4.2,
+        "G2G": 6.2,
         "OG": 4.47,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 8.13,
+        "Kinguin": 8.18,
         "Eneba": 98.6,
         "Moogold": 4.5
       },
       "DC Nitro Membership 3 Months Trial Code": {
-        "G2G": 0.8,
+        "G2G": 0.75,
         "G2A": "N/A",
-        "Kinguin": 0.8,
-        "Eneba": 0.59
+        "Kinguin": 0.91,
+        "Eneba": 0.54
       },
       "DC Nitro Membership 1 Year (Activation Link)": {
-        "G2G": 39.0,
-        "Kinguin": 80.86
+        "G2G": 46.0,
+        "Kinguin": 81.29
       },
       "DC Nitro Membership 1 Month (Activation Link)": {
-        "G2G": 6.29,
-        "Kinguin": 8.69
+        "G2G": 7.0,
+        "Kinguin": 8.96
       },
       "DC Nitro Basic Membership 1 Month (Activation Link)": {
-        "G2G": 1.1,
-        "Kinguin": 3.59
+        "G2G": 1.0,
+        "Kinguin": 3.29
       }
     },
     "Razer Gold": {
       "Razer Gold USD500 (US)": {
-        "G2G": 490.0,
+        "G2G": 525.0,
         "OG": 495.0,
         "G2A": "N/A",
-        "Kinguin": 501.19,
+        "Kinguin": 507.4,
         "MooGold": 500.0
       },
       "Razer Gold USD400 (US)": {
-        "G2G": 465.08,
+        "G2G": 464.78,
         "OG": 400.0,
         "G2A": "N/A",
-        "Kinguin": 400.44,
+        "Kinguin": 401.4,
         "MooGold": 400.0
       },
       "Razer Gold USD300 (US)": {
         "G2G": 337.99,
         "OG": 300.0,
         "G2A": "N/A",
-        "Kinguin": 300.62,
+        "Kinguin": 301.79,
         "MooGold": 300.0
       },
       "Razer Gold USD200 (US)": {
         "G2G": 207.0,
         "OG": 200.0,
         "G2A": "N/A",
-        "Kinguin": 202.5,
+        "Kinguin": 200.87,
         "MooGold": 200.0
       },
       "Razer Gold USD100 (US)": {
@@ -1190,8 +1205,8 @@
         "OG": 100.0,
         "G2A": "N/A",
         "Seagm": 100.0,
-        "Kinguin": 98.58,
-        "Eneba": 110.81,
+        "Kinguin": 96.16,
+        "Eneba": 110.82,
         "MooGold": 100.0
       },
       "Razer Gold USD50 (US)": {
@@ -1199,25 +1214,25 @@
         "OG": 50.0,
         "G2A": "N/A",
         "Seagm": 50.0,
-        "Kinguin": 49.73,
-        "Eneba": 55.41,
+        "Kinguin": 50.6,
+        "Eneba": 55.4,
         "MooGold": 50.0
       },
       "Razer Gold USD25 (US)": {
-        "G2G": 25.97,
+        "G2G": 24.8,
         "OG": 25.0,
         "G2A": "N/A",
         "MooGold": 25.0,
-        "Kinguin": 24.72,
-        "Eneba": 28.18
+        "Kinguin": 25.58,
+        "Eneba": 28.44
       },
       "Razer Gold USD20 (US)": {
-        "G2G": 20.34,
+        "G2G": 20.38,
         "OG": 20.0,
         "Seagm": 20.0,
         "G2A": "N/A",
-        "Kinguin": 19.92,
-        "Eneba": 21.6,
+        "Kinguin": 20.26,
+        "Eneba": 22.56,
         "MooGold": 20.0
       },
       "Razer Gold USD10 (US)": {
@@ -1225,8 +1240,8 @@
         "OG": 10.0,
         "G2A": "N/A",
         "Seagm": 10.0,
-        "Kinguin": 10.21,
-        "Eneba": 11.07,
+        "Kinguin": 10.22,
+        "Eneba": 11.09,
         "MooGold": 10.0
       },
       "Razer Gold USD5 (US)": {
@@ -1234,8 +1249,8 @@
         "OG": 5.0,
         "G2A": "N/A",
         "Seagm": 5.0,
-        "Kinguin": 5.18,
-        "Eneba": 5.55,
+        "Kinguin": 5.19,
+        "Eneba": 5.42,
         "MooGold": 5.0
       },
       "Razer Gold USD 500 (Global)": {
@@ -1243,29 +1258,29 @@
         "OG": 485.53,
         "G2A": "N/A",
         "Seagm": 500.0,
-        "Kinguin": 500.29
+        "Kinguin": 511.14
       },
       "Razer Gold USD 200 (Global)": {
         "G2G": 190.0,
         "OG": 194.21,
         "G2A": "N/A",
         "Seagm": 200.0,
-        "Kinguin": 200.47,
+        "Kinguin": 201.24,
         "MooGold": 196.0
       },
       "Razer Gold USD 100 (Global)": {
-        "G2G": 82.54,
+        "G2G": 98.69,
         "OG": 98.95,
         "G2A": "N/A",
         "Seagm": 100.0,
-        "Kinguin": 98.09,
-        "Eneba": 110.81,
+        "Kinguin": 96.75,
+        "Eneba": 110.82,
         "MooGold": 98.0
       }
     },
     "Perplexity AI": {
       "Perplexity AI Pro Yearly (Global)": {
-        "G2G": 36.99,
+        "G2G": 39.5,
         "G2A": "N/A",
         "Kinguin": 59.33
       },
@@ -1275,16 +1290,16 @@
     },
     "CapCut": {
       "CapCut Pro Subscription 1 Month Account (Global)": {
-        "G2G": 1.0,
+        "G2G": 1.25,
         "G2A": "N/A",
-        "Kinguin": 7.37
+        "Kinguin": 6.77
       }
     },
     "YouTube": {
       "Youtube Premium 1 Month Account": {
-        "G2G": 0.4,
+        "G2G": 0.39,
         "G2A": "N/A",
-        "Kinguin": 3.33
+        "Kinguin": 3.78
       }
     },
     "Strong IPTV 8k": {
@@ -1313,53 +1328,53 @@
         "G2G": 1.78
       },
       "Strng IPTV 8K Reseller Panel 120 Credits 10 Years - Reseller Account (Global)": {
-        "G2G": 179.0
+        "G2G": 178.99
       }
     },
     "Spotify": {
       "Spotify Gift Card USD 99": {
         "G2A": "N/A",
-        "ItemkuEN": 98.88
+        "ItemkuEN": 99.47
       },
       "Spotify Gift Card USD 60": {
         "G2G": 58.82,
         "G2A": "N/A",
         "Seagm": "N/A",
         "OG": "N/A",
-        "ItemkuEN": 59.93
+        "ItemkuEN": 60.29
       },
       "Spotify Gift Card USD 30": {
-        "G2G": 32.88,
+        "G2G": 32.98,
         "G2A": "N/A",
         "Seagm": "N/A",
         "OG": "N/A",
-        "Eneba": 45.45,
-        "ItemkuEN": 29.97
+        "Eneba": 45.5,
+        "ItemkuEN": 30.15
       },
       "Spotify Gift Card USD 10": {
         "G2G": 12.0,
         "G2A": "N/A",
         "Seagm": "N/A",
         "OG": "N/A",
-        "Eneba": 15.37,
-        "ItemkuEN": 10.53
+        "Eneba": 15.35,
+        "ItemkuEN": 11.15
       }
     },
     "Rewarble": {
       "Rewarble EUR20 Gift Cards": {
-        "G2G": 24.59,
-        "OG": 24.35,
+        "G2G": 24.67,
+        "OG": 24.43,
         "G2A": "N/A",
-        "Seagm": 24.08,
-        "Kinguin": 27.17,
+        "Seagm": 24.15,
+        "Kinguin": 27.32,
         "Eneba": "N/A"
       },
       "Rewarble EUR10 Gift Cards": {
-        "G2G": 12.3,
-        "OG": 12.18,
+        "G2G": 12.34,
+        "OG": 12.22,
         "G2A": "N/A",
-        "Seagm": 12.04,
-        "Kinguin": 12.84,
+        "Seagm": 12.08,
+        "Kinguin": 12.91,
         "Eneba": "N/A"
       },
       "Rewarble Gift Cards USD 100 (Global)": {
@@ -1412,227 +1427,227 @@
         "Eneba": "N/A"
       },
       "Rewarble EUR100 Gift Cards": {
-        "G2G": 122.95,
-        "OG": 121.77,
+        "G2G": 123.35,
+        "OG": 122.17,
         "G2A": "N/A",
-        "Seagm": 120.97,
-        "Kinguin": 126.44,
+        "Seagm": 121.35,
+        "Kinguin": 127.12,
         "Eneba": "N/A"
       },
       "Rewarble EUR60 Gift Cards": {
-        "G2G": 73.77,
-        "OG": 73.06,
-        "Seagm": 72.22,
+        "G2G": 74.01,
+        "OG": 73.3,
+        "Seagm": 72.44,
         "G2A": "N/A",
-        "Kinguin": 76.16,
+        "Kinguin": 76.57,
         "Eneba": "N/A"
       },
       "Rewarble EUR50 Gift Cards": {
-        "G2G": 61.48,
-        "OG": 60.89,
-        "Seagm": 60.18,
+        "G2G": 61.68,
+        "OG": 61.08,
+        "Seagm": 60.37,
         "G2A": "N/A",
-        "Kinguin": 65.19,
+        "Kinguin": 65.54,
         "Eneba": "N/A"
       },
       "Rewarble EUR30 Gift Cards": {
-        "G2G": 37.76,
+        "G2G": 37.88,
         "OG": 31.51,
         "G2A": "N/A",
-        "Seagm": 36.11,
-        "Kinguin": 38.17,
+        "Seagm": 36.22,
+        "Kinguin": 38.37,
         "Eneba": "N/A"
       },
       "Rewarble EUR25 Gift Cards": {
-        "G2G": 30.73,
-        "OG": 30.44,
+        "G2G": 30.83,
+        "OG": 30.54,
         "G2A": "N/A",
-        "Seagm": 30.09,
-        "Kinguin": 31.74,
+        "Seagm": 30.19,
+        "Kinguin": 31.91,
         "Eneba": "N/A"
       }
     },
     "Binance": {
       "Binance Gift Card USDT500 (Global)": {
-        "OG": 530.15,
+        "OG": 527.93,
         "G2A": "N/A",
-        "Kinguin": 557.95,
+        "Kinguin": 562.93,
         "Eneba": "N/A",
         "MooGold": 517.5
       },
       "Binance Gift Card USDT400 (Global)": {
-        "OG": 424.12,
+        "OG": 422.34,
         "G2A": "N/A",
-        "Kinguin": 446.13,
+        "Kinguin": 449.82,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDT300 (Global)": {
-        "OG": 318.09,
+        "OG": 316.76,
         "G2A": "N/A",
-        "Kinguin": 334.54,
+        "Kinguin": 340.31,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDT250 (Global)": {
-        "OG": 265.07,
+        "OG": 263.97,
         "G2A": "N/A",
-        "Kinguin": 279.07,
+        "Kinguin": 281.54,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDT200 (Global)": {
-        "OG": 212.06,
+        "OG": 211.17,
         "G2A": "N/A",
-        "Kinguin": 223.27,
+        "Kinguin": 225.26,
         "Eneba": "N/A",
         "MooGold": 207.0
       },
       "Binance Gift Card USDT100 (Global)": {
-        "OG": 106.03,
+        "OG": 105.59,
         "G2A": "N/A",
-        "Kinguin": 111.66,
+        "Kinguin": 112.71,
         "Eneba": "N/A",
         "MooGold": 103.5
       },
       "Binance Gift Card USDT50 (Global)": {
-        "OG": 53.01,
+        "OG": 52.79,
         "G2A": "N/A",
-        "Kinguin": 56.2,
+        "Kinguin": 56.38,
         "Eneba": "N/A",
         "MooGold": 51.75
       },
       "Binance Gift Card USDT30 (Global)": {
-        "OG": 31.81,
+        "OG": 31.68,
         "G2A": "N/A",
-        "Kinguin": 35.95,
+        "Kinguin": 34.2,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDT25 (Global)": {
-        "OG": 26.51,
+        "OG": 26.4,
         "G2A": "N/A",
-        "Kinguin": 29.99,
+        "Kinguin": 28.26,
         "Eneba": "N/A",
         "MooGold": 25.88
       },
       "Binance Gift Card USDT20 (Global)": {
-        "OG": 21.21,
+        "OG": 21.12,
         "G2A": "N/A",
-        "Kinguin": 24.35,
+        "Kinguin": 24.21,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDT15 (Global)": {
         "G2A": "N/A",
-        "OG": 15.9,
-        "Kinguin": 18.59,
+        "OG": 15.84,
+        "Kinguin": 18.28,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDT10 (Global)": {
         "G2A": "N/A",
-        "OG": 10.6,
-        "Kinguin": 12.19,
+        "OG": 10.56,
+        "Kinguin": 12.26,
         "Eneba": "N/A",
         "MooGold": 10.35
       },
       "Binance Gift Card USDT5 (Global)": {
         "G2A": "N/A",
-        "OG": 5.3,
-        "Kinguin": 6.62,
+        "OG": 5.28,
+        "Kinguin": 6.43,
         "Eneba": "N/A",
         "MooGold": 5.18
       },
       "Binance Gift Card USDC500 (Global)": {
-        "OG": 530.15,
+        "OG": 527.93,
         "G2A": "N/A",
-        "Kinguin": 557.87,
+        "Kinguin": 558.85,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC400 (Global)": {
-        "OG": 424.12,
+        "OG": 422.34,
         "G2A": "N/A",
-        "Kinguin": 446.51,
+        "Kinguin": 460.47,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC300 (Global)": {
-        "OG": 318.09,
+        "OG": 316.76,
         "G2A": "N/A",
-        "Kinguin": 335.03,
+        "Kinguin": 335.51,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC250 (Global)": {
-        "OG": 265.07,
+        "OG": 263.97,
         "G2A": "N/A",
-        "Kinguin": 279.26,
+        "Kinguin": 285.61,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC200 (Global)": {
-        "OG": 212.06,
+        "OG": 211.17,
         "G2A": "N/A",
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC100 (Global)": {
-        "OG": 106.03,
+        "OG": 105.59,
         "G2A": "N/A",
-        "Kinguin": 111.86,
+        "Kinguin": 112.71,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC50 (Global)": {
-        "OG": 53.01,
+        "OG": 52.79,
         "G2A": "N/A",
-        "Kinguin": 56.29,
+        "Kinguin": 56.45,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC20 (Global)": {
-        "OG": 21.21,
+        "OG": 21.12,
         "G2A": "N/A",
-        "Kinguin": 22.96,
+        "Kinguin": 23.19,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC10 (Global)": {
         "G2A": "N/A",
-        "OG": 10.6,
-        "Kinguin": 11.64,
+        "OG": 10.56,
+        "Kinguin": 11.41,
         "Eneba": "N/A"
       },
       "Binance Gift Card USDC5 (Global)": {
-        "OG": 5.3,
+        "OG": 5.28,
         "G2A": "N/A",
-        "Kinguin": 6.11,
+        "Kinguin": 5.95,
         "Eneba": 5.41
       },
       "Binance Gift Card EUR400 (EURI)": {
-        "OG": 496.2,
+        "OG": 501.11,
         "G2A": "N/A"
       },
       "Binance Gift Card EUR300 (EURI)": {
-        "OG": 373.09,
+        "OG": 375.83,
         "G2A": "N/A"
       },
       "Binance Gift Card EUR250 (EURI)": {
-        "OG": 310.97,
+        "OG": 313.25,
         "G2A": "N/A",
-        "Kinguin": 328.76
+        "Kinguin": 331.23
       },
       "Binance Gift Card EUR200 (EURI)": {
-        "OG": 212.06,
+        "OG": 211.17,
         "G2A": "N/A"
       },
       "Binance Gift Card EUR100 (EURI)": {
-        "OG": 106.03,
+        "OG": 105.59,
         "G2A": "N/A",
-        "Kinguin": 131.69
+        "Kinguin": 131.84
       },
       "Binance Gift Card EUR30 (EURI)": {
-        "OG": 31.81,
+        "OG": 31.68,
         "G2A": "N/A",
-        "Kinguin": 39.46
+        "Kinguin": 39.68
       },
       "Binance Gift Card EUR25 (EURI)": {
-        "OG": 31.1,
+        "OG": 31.33,
         "G2A": "N/A",
-        "Kinguin": 32.88
+        "Kinguin": 33.06
       },
       "Binance Gift Card EUR20 (EURI)": {
-        "OG": 21.21,
+        "OG": 21.12,
         "G2A": "N/A",
-        "Kinguin": 26.28
+        "Kinguin": 26.43
       }
     },
     "CashtoCode": {
@@ -1641,14 +1656,14 @@
         "OG": 206.43,
         "G2A": "N/A",
         "Seagm": 209.53,
-        "Eneba": 254.02
+        "Eneba": 247.48
       },
       "CashtoCode eVouchers USD 100 (Global)": {
         "G2G": 106.34,
         "OG": 103.21,
         "G2A": "N/A",
         "Seagm": 104.77,
-        "Eneba": 120.44
+        "Eneba": 121.19
       },
       "CashtoCode eVouchers USD 50 (Global)": {
         "G2G": 53.16,
@@ -1662,54 +1677,54 @@
         "OG": 25.8,
         "G2A": "N/A",
         "Seagm": 26.2,
-        "Eneba": 29.93
+        "Eneba": 30.1
       },
       "CashtoCode eVouchers JPY24,000 (JP)": {
-        "G2G": 157.72,
-        "OG": 156.21,
+        "G2G": 157.36,
+        "OG": 155.86,
         "G2A": "N/A",
-        "Seagm": 159.41,
-        "Kinguin": 168.27
+        "Seagm": 159.03,
+        "Kinguin": 168.91
       },
       "CashtoCode eVouchers JPY12,000 (JP)": {
-        "G2G": 78.86,
-        "OG": 78.11,
+        "G2G": 78.68,
+        "OG": 77.93,
         "G2A": "N/A",
-        "Seagm": 79.7,
-        "Kinguin": 82.43,
-        "Eneba": 89.8
+        "Seagm": 79.52,
+        "Kinguin": 83.83,
+        "Eneba": 90.0
       },
       "CashtoCode eVouchers JPY6,000 (JP)": {
-        "G2G": 39.43,
-        "OG": 39.05,
+        "G2G": 39.34,
+        "OG": 38.96,
         "G2A": "N/A",
-        "Seagm": 39.85,
-        "Kinguin": 41.37,
-        "Eneba": 44.42
+        "Seagm": 39.76,
+        "Kinguin": 41.85,
+        "Eneba": 44.63
       },
       "CashtoCode eVouchers AUD200 (AU)": {
-        "G2G": 146.75,
-        "OG": 145.35,
+        "G2G": 146.08,
+        "OG": 144.69,
         "G2A": "N/A",
-        "Seagm": 146.87,
-        "Kinguin": 145.6,
-        "Eneba": 166.12
+        "Seagm": 146.15,
+        "Kinguin": 150.1,
+        "Eneba": 166.75
       },
       "CashtoCode eVouchers AUD100 (AU)": {
-        "G2G": 73.38,
-        "OG": 72.67,
-        "Seagm": 73.44,
+        "G2G": 73.04,
+        "OG": 72.34,
+        "Seagm": 73.08,
         "G2A": "N/A",
-        "Kinguin": 77.87,
-        "Eneba": 83.68
+        "Kinguin": 77.77,
+        "Eneba": 83.63
       },
       "CashtoCode eVouchers AUD50 (AU)": {
-        "G2G": 36.69,
-        "OG": 36.34,
+        "G2G": 36.52,
+        "OG": 36.17,
         "G2A": "N/A",
-        "Seagm": 36.72,
-        "Kinguin": 39.08,
-        "Eneba": 41.21
+        "Seagm": 36.54,
+        "Kinguin": 38.92,
+        "Eneba": 41.24
       }
     },
     "PlayStation": {
@@ -1718,17 +1733,17 @@
         "OG": 228.75,
         "G2A": "N/A",
         "Seagm": 231.25,
-        "Kinguin": 239.91,
-        "Eneba": 267.44,
+        "Kinguin": 245.57,
+        "Eneba": 267.46,
         "MooGold": 234.0
       },
       "PlayStation™Store USD200 Gift Cards (US)": {
-        "G2G": 135.0,
+        "G2G": 191.18,
         "OG": 183.0,
         "G2A": "N/A",
         "Seagm": 185.0,
-        "Kinguin": 191.97,
-        "Eneba": 213.95,
+        "Kinguin": 197.0,
+        "Eneba": 213.97,
         "MooGold": 187.2
       },
       "PlayStation™Store USD150 Gift Cards (US)": {
@@ -1736,26 +1751,26 @@
         "OG": 137.25,
         "G2A": "N/A",
         "Seagm": 138.75,
-        "Kinguin": 144.02,
-        "Eneba": 159.84,
+        "Kinguin": 144.8,
+        "Eneba": 159.85,
         "MooGold": 140.4
       },
       "PlayStation™Store USD100 Gift Cards (US)": {
-        "G2G": 90.0,
+        "G2G": 92.99,
         "OG": 91.5,
         "Seagm": 91.5,
         "G2A": "N/A",
-        "Kinguin": 96.68,
+        "Kinguin": 91.44,
         "Codashop": 100.0,
         "Eneba": 100.0,
         "MooGold": 93.08
       },
       "PlayStation™Store USD75 Gift Cards (US)": {
-        "G2G": 70.75,
+        "G2G": 70.65,
         "OG": 68.62,
         "G2A": "N/A",
         "Seagm": 68.63,
-        "Kinguin": 69.83,
+        "Kinguin": 73.81,
         "Codashop": 75.0,
         "Eneba": 81.91,
         "MooGold": 69.81
@@ -1765,152 +1780,152 @@
         "OG": 45.75,
         "G2A": "N/A",
         "Seagm": 45.75,
-        "Kinguin": 45.62,
+        "Kinguin": 46.36,
         "Codashop": 50.0,
-        "Eneba": 53.49,
+        "Eneba": 52.33,
         "MooGold": 46.54
       },
       "PlayStation™Store USD25 Gift Cards (US)": {
-        "G2G": 22.58,
+        "G2G": 22.7,
         "OG": 22.87,
         "G2A": "N/A",
         "Seagm": 22.88,
-        "Kinguin": 24.14,
+        "Kinguin": 25.89,
         "Codashop": 25.0,
-        "Eneba": 0.91,
+        "Eneba": 26.75,
         "MooGold": 23.66
       },
       "PlayStation™Store GBP 100 Gift Cards (UK)": {
-        "G2G": 126.52,
+        "G2G": 126.96,
         "OG": 125.31,
         "G2A": "N/A",
-        "Seagm": 123.33,
-        "Kinguin": 118.54,
-        "Eneba": 135.24,
-        "MooGold": 131.59
+        "Seagm": 123.75,
+        "Kinguin": 122.74,
+        "Eneba": 134.59,
+        "MooGold": 132.01
       },
       "PlayStation™Store GBP 50 Gift Cards (UK)": {
         "G2G": 58.0,
-        "OG": 65.5,
+        "OG": 65.73,
         "G2A": "N/A",
-        "Seagm": 61.66,
-        "Kinguin": 56.91,
-        "Eneba": 65.53,
-        "MooGold": 65.79
+        "Seagm": 61.87,
+        "Kinguin": 58.99,
+        "Eneba": 67.26,
+        "MooGold": 66.01
       },
       "PlayStation™Store GBP 20 Gift Cards (UK)": {
         "G2G": 26.04,
-        "OG": 26.09,
+        "OG": 26.19,
         "G2A": "N/A",
-        "Seagm": 24.79,
-        "Kinguin": 25.07,
+        "Seagm": 24.87,
+        "Kinguin": 24.71,
         "Eneba": 27.09,
-        "MooGold": 26.32
+        "MooGold": 26.4
       },
       "PlayStation™Store USD 200 Gift Cards (AE)": {
         "G2G": 200.86,
         "OG": 194.96,
         "G2A": "N/A",
-        "Kinguin": 197.66,
+        "Kinguin": 201.2,
         "Eneba": 224.22
       },
       "PlayStation™Store USD 100 Gift Cards (AE)": {
-        "G2G": 100.43,
+        "G2G": 100.2,
         "OG": 97.48,
         "G2A": "N/A",
         "Seagm": 93.0,
-        "Kinguin": 101.15,
+        "Kinguin": 101.11,
         "Codashop": "N/A",
         "Unipin": 100.0,
-        "Eneba": 104.66,
+        "Eneba": 105.08,
         "MooGold": 100.0
       },
       "PlayStation™Store USD 50 Gift Cards (AE)": {
-        "G2G": 49.67,
+        "G2G": 49.59,
         "OG": 48.74,
         "G2A": "N/A",
         "Seagm": 46.5,
-        "Kinguin": 50.5,
+        "Kinguin": 50.52,
         "Codashop": "N/A",
         "Unipin": 50.0,
         "Eneba": 54.63,
         "MooGold": 50.0
       },
       "PlayStation™Store MYR 200 Gift Cards (MY)": {
-        "G2G": 49.02,
-        "OG": 48.05,
+        "G2G": 49.61,
+        "OG": 48.62,
         "G2A": "N/A",
-        "Seagm": 48.07,
-        "Kinguin": 55.0,
+        "Seagm": 48.68,
+        "Kinguin": 58.65,
         "Codashop": "N/A",
-        "LapakGaming": 7.29,
+        "LapakGaming": 7.37,
         "Unipin": 30.0,
-        "Eneba": 58.74,
+        "Eneba": 61.62,
         "MooGold": 47.37
       },
       "PlayStation™Store MYR 100 Gift Cards (MY)": {
-        "G2G": 24.51,
-        "OG": 24.28,
+        "G2G": 24.81,
+        "OG": 24.57,
         "G2A": "N/A",
-        "Seagm": 24.27,
-        "Kinguin": 27.23,
+        "Seagm": 24.58,
+        "Kinguin": 27.81,
         "Codashop": "N/A",
-        "LapakGaming": 7.29,
+        "LapakGaming": 7.37,
         "Unipin": 30.0,
-        "Eneba": 30.27,
+        "Eneba": 30.73,
         "MooGold": 23.68
       },
       "PlayStation™Store MYR 50 Gift Cards (MY)": {
-        "G2G": 12.26,
-        "OG": 12.14,
+        "G2G": 12.4,
+        "OG": 12.28,
         "G2A": "N/A",
-        "Seagm": 12.13,
-        "Kinguin": 13.56,
+        "Seagm": 12.29,
+        "Kinguin": 13.99,
         "Codashop": "N/A",
-        "LapakGaming": 7.29,
+        "LapakGaming": 7.37,
         "Unipin": 30.0,
         "Eneba": 15.09,
         "MooGold": 11.84
       },
       "PlayStation™Store EUR 250 Gift Cards (DE)": {
-        "G2G": 279.63,
+        "G2G": 283.1,
         "G2A": "N/A",
-        "Seagm": 239.69,
+        "Seagm": 240.43,
         "OG": 15.55,
-        "Kinguin": 249.37,
-        "Eneba": 346.39
+        "Kinguin": 260.51,
+        "Eneba": 347.75
       },
       "PlayStation™Store EUR 200 Gift Cards (DE)": {
-        "G2G": 224.33,
+        "G2G": 224.9,
         "G2A": "N/A",
-        "Seagm": 192.19,
+        "Seagm": 192.8,
         "OG": "N/A",
-        "Kinguin": 193.66,
-        "Eneba": 277.11
+        "Kinguin": 202.81,
+        "Eneba": 278.2
       },
       "PlayStation™Store EUR 150 Gift Cards (DE)": {
-        "G2G": 169.66,
+        "G2G": 167.9,
         "G2A": "N/A",
-        "Seagm": 144.15,
+        "Seagm": 144.6,
         "OG": 9.33,
-        "Kinguin": 154.75,
-        "Eneba": 203.32,
-        "MooGold": 113.48
+        "Kinguin": 153.09,
+        "Eneba": 208.65,
+        "MooGold": 113.89
       },
       "PlayStation™Store USD 200 Gift Cards (QA)": {
         "G2G": 198.7,
         "OG": 194.96,
         "G2A": "N/A",
-        "Kinguin": 197.91,
-        "Eneba": 215.88
+        "Kinguin": 198.3,
+        "Eneba": 219.04
       },
       "PlayStation™Store USD 100 Gift Cards (QA)": {
         "G2G": 99.36,
         "OG": 97.48,
         "G2A": "N/A",
-        "Kinguin": 101.15,
+        "Kinguin": 101.54,
         "Codashop": "N/A",
-        "Eneba": 94.11,
+        "Eneba": 94.48,
         "MooGold": 100.0
       },
       "PlayStation™Store USD 50 Gift Cards (QA)": {
@@ -1919,7 +1934,7 @@
         "Seagm": 47.25,
         "G2A": "N/A",
         "Codashop": "N/A",
-        "Eneba": 54.51,
+        "Eneba": 54.56,
         "MooGold": 50.0
       }
     },
@@ -1927,7 +1942,7 @@
       "Genshin Impact 6,480 + 1,600 Crystals (Global)": {
         "G2G": 49.67,
         "G2A": "N/A",
-        "Kinguin": 67.69,
+        "Kinguin": 68.05,
         "Codashop": 99.99,
         "LapakGaming": 99.99,
         "Moogold": 99.99,
@@ -1939,7 +1954,7 @@
       "Genshin Impact 3,280 + 600 Crystals (Global)": {
         "G2G": 32.94,
         "G2A": "N/A",
-        "Kinguin": 30.67,
+        "Kinguin": 30.83,
         "Codashop": 49.99,
         "LapakGaming": 49.99,
         "Moogold": 49.99,
@@ -1948,7 +1963,7 @@
       "Genshin Impact 1,980 + 260 Crystals (Global)": {
         "G2G": 21.99,
         "G2A": "N/A",
-        "Kinguin": 16.84,
+        "Kinguin": 19.87,
         "Codashop": 29.99,
         "LapakGaming": 29.99,
         "Moogold": 29.99,
@@ -1956,61 +1971,61 @@
       },
       "Genshin Impact All Pack Genesis Crystals (Global)": {
         "G2G": 139.99,
-        "Kinguin": 181.34
+        "Kinguin": 182.31
       }
     },
     "GASH": {
       "GASH 5,000 Points (HK)": {
-        "G2G": 161.33,
-        "OG": 159.79,
-        "Seagm": 163.22,
-        "Eneba": 204.08
+        "G2G": 161.27,
+        "OG": 159.73,
+        "Seagm": 163.17,
+        "Eneba": 0.49
       },
       "GASH 3,000 Points (HK)": {
-        "G2G": 96.8,
-        "OG": 95.87,
-        "Seagm": 98.44
+        "G2G": 96.76,
+        "OG": 95.84,
+        "Seagm": 96.91
       },
       "GASH 1,000 Points (HK)": {
-        "G2G": 32.27,
-        "OG": 31.96,
-        "Seagm": 32.81
+        "G2G": 32.25,
+        "OG": 31.95,
+        "Seagm": 32.3
       },
       "GASH 100 Points (HK)": {
         "G2G": 3.28,
-        "OG": 3.25,
-        "Seagm": 3.34
+        "OG": 3.24,
+        "Seagm": 3.28
       },
       "GASH 5000 Points (TW)": {
-        "G2G": 184.27,
-        "OG": 159.79,
-        "Seagm": 156.0
+        "G2G": 184.2,
+        "OG": 159.73,
+        "Seagm": 156.04
       },
       "GASH 3000 Points (TW)": {
         "G2G": "N/A",
-        "OG": 95.87,
-        "Seagm": 93.6
+        "OG": 95.84,
+        "Seagm": 93.62
       },
       "GASH 1000 Points (TW)": {
         "G2G": "N/A",
-        "OG": 31.96,
-        "Seagm": 31.2
+        "OG": 31.95,
+        "Seagm": 31.21
       }
     },
     "Steam": {
       "Steam Wallet Code USD100 (US)": {
-        "G2G": 88.0,
+        "G2G": 90.0,
         "G2A": "N/A",
         "Seagm": 109.61,
-        "Kinguin": 108.73,
+        "Kinguin": 109.29,
         "LapakGaming": 100.0,
         "MooGold": 100.0
       },
       "Steam Wallet Code USD50 (US)": {
-        "G2G": 46.0,
+        "G2G": 52.9,
         "G2A": "N/A",
         "Seagm": 50.83,
-        "Kinguin": 52.1,
+        "Kinguin": 52.38,
         "LapakGaming": 50.0,
         "MooGold": 50.0
       },
@@ -2018,91 +2033,91 @@
         "G2G": 29.05,
         "G2A": "N/A",
         "Seagm": 26.4,
-        "Eneba": 29.75,
+        "Eneba": 29.85,
         "LapakGaming": 25.0,
-        "Kinguin": 29.0
+        "Kinguin": 29.12
       },
       "Steam Wallet Code USD20 (US)": {
-        "G2G": 20.49,
+        "G2G": 20.55,
         "G2A": "N/A",
         "Seagm": 20.93,
-        "Eneba": 23.52,
+        "Eneba": 25.1,
         "LapakGaming": 20.0,
-        "Kinguin": 20.19,
+        "Kinguin": 21.76,
         "MooGold": 20.0
       },
       "Steam Wallet Code USD10 (US)": {
-        "G2G": 9.66,
+        "G2G": 10.96,
         "G2A": "N/A",
         "Seagm": 10.75,
-        "Kinguin": 14.61,
+        "Kinguin": 13.42,
         "LapakGaming": 10.0,
-        "Eneba": 11.83,
+        "Eneba": 12.14,
         "MooGold": 10.0
       },
       "Steam Wallet Code USD5 (US)": {
-        "G2G": 5.44,
+        "G2G": 5.45,
         "G2A": "N/A",
-        "Kinguin": 6.09,
-        "Eneba": 6.42,
+        "Kinguin": 6.12,
+        "Eneba": 6.21,
         "MooGold": 5.0
       },
       "Steam Wallet Code EUR 30 (EU)": {
-        "G2G": 36.82,
-        "OG": 34.69,
+        "G2G": 37.52,
+        "OG": 34.8,
         "G2A": "N/A",
-        "Seagm": 35.1,
-        "Kinguin": 33.45,
-        "Eneba": 40.59
+        "Seagm": 35.2,
+        "Kinguin": 33.22,
+        "Eneba": 40.5
       },
       "Steam Wallet Code EUR 20 (EU)": {
-        "G2G": 22.47,
-        "OG": 23.2,
+        "G2G": 24.69,
+        "OG": 23.28,
         "G2A": "N/A",
-        "Seagm": 23.4,
-        "Kinguin": 23.47,
-        "Codashop": 22.72,
-        "Eneba": 26.27
+        "Seagm": 23.47,
+        "Kinguin": 23.4,
+        "Codashop": 22.83,
+        "Eneba": 26.95
       },
       "Steam Wallet Code RM200 (MY)": {
         "OG": 49.09,
-        "G2G": 55.8,
+        "G2G": 56.46,
         "G2A": "N/A",
-        "Seagm": 49.53,
-        "Kinguin": 51.88,
-        "Eneba": 56.19,
+        "Seagm": 50.16,
+        "Kinguin": 52.1,
+        "Eneba": 57.76,
         "MooGold": 46.87
       },
       "Steam Wallet Code RM100 (MY)": {
-        "G2G": 25.03,
-        "OG": 24.53,
+        "G2G": 25.33,
+        "OG": 24.83,
         "G2A": "N/A",
-        "Seagm": 24.77,
-        "Kinguin": 26.65,
-        "Eneba": 28.92,
+        "Seagm": 25.08,
+        "Kinguin": 26.53,
+        "Eneba": 29.04,
         "MooGold": 23.43
       },
       "Steam Wallet Code RM80 (MY)": {
-        "G2G": 21.4,
+        "G2G": 21.46,
         "G2A": "N/A",
-        "Seagm": 19.81,
+        "Seagm": 20.06,
         "OG": "N/A",
-        "Eneba": 23.36,
+        "Eneba": 23.46,
         "MooGold": 18.8
       },
       "Steam Wallet Code RM50 (MY)": {
-        "G2G": 12.52,
-        "OG": 12.27,
-        "Seagm": 12.38,
+        "G2G": 12.67,
+        "OG": 12.41,
+        "Seagm": 12.54,
         "G2A": "N/A",
-        "Kinguin": 13.4,
+        "Kinguin": 13.89,
         "Eneba": 14.5,
         "MooGold": 11.72
       },
       "Steam Wallet Code RM10 (MY)": {
-        "G2G": 2.73,
+        "G2G": 2.76,
         "OG": 2.45,
-        "Seagm": 2.48,
+        "Seagm": 2.51,
         "G2A": "N/A",
         "Eneba": 2.85,
         "MooGold": 2.34
@@ -2112,7 +2127,7 @@
         "OG": 109.69,
         "Seagm": 108.58,
         "G2A": "N/A",
-        "Kinguin": 139.54,
+        "Kinguin": 140.36,
         "Eneba": 126.57,
         "MooGold": 109.89
       },
@@ -2121,7 +2136,7 @@
         "OG": 54.84,
         "G2A": "N/A",
         "Seagm": 54.29,
-        "Kinguin": 59.92,
+        "Kinguin": 59.76,
         "Eneba": 65.71,
         "MooGold": 54.95
       },
@@ -2130,49 +2145,49 @@
         "OG": 27.42,
         "G2A": "N/A",
         "Seagm": 27.15,
-        "Kinguin": 29.46,
-        "Eneba": 31.62,
+        "Kinguin": 29.76,
+        "Eneba": 32.17,
         "MooGold": 27.47
       }
     },
     "Nexon": {
       "Nexon Game Card USD 100 (Global)": {
-        "G2G": 99.18,
+        "G2G": 99.36,
         "OG": 91.81,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 78.63,
-        "Eneba": 143.76,
+        "Kinguin": 77.87,
+        "Eneba": 110.13,
         "MooGold": 92.0
       },
       "Nexon Game Card USD 50 (Global)": {
-        "G2G": 49.67,
+        "G2G": 49.85,
         "OG": 45.91,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 42.25,
+        "Kinguin": 42.48,
         "Unipin": 52.73,
-        "Eneba": 52.14,
+        "Eneba": 47.9,
         "MooGold": 46.0
       },
       "Nexon Game Card USD 25 (Global)": {
-        "G2G": 24.38,
+        "G2G": 24.37,
         "OG": 22.95,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 22.29,
+        "Kinguin": 22.41,
         "Unipin": 26.36,
-        "Eneba": 27.52,
+        "Eneba": 27.55,
         "MooGold": 23.0
       },
       "Nexon Game Card USD 10 (Global)": {
-        "G2G": 10.22,
+        "G2G": 10.46,
         "OG": 5.25,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 9.38,
+        "Kinguin": 9.43,
         "Unipin": 10.55,
-        "Eneba": 11.03,
+        "Eneba": 10.78,
         "MooGold": 9.2
       }
     },
@@ -2182,59 +2197,59 @@
         "OG": 91.74,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 106.81,
+        "Kinguin": 104.44,
         "LapakGaming": 100.0,
-        "Eneba": 106.05
+        "Eneba": 106.48
       },
       "GoCash Game Card USD 50 (Global)": {
         "G2G": 47.26,
         "OG": 45.87,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 52.65,
+        "Kinguin": 52.69,
         "LapakGaming": 50.0,
-        "Eneba": 50.08
+        "Eneba": 50.28
       },
       "GoCash Game Card USD 30 (Global)": {
         "G2G": 28.36,
         "OG": 27.52,
         "G2A": "N/A",
-        "Kinguin": 31.69,
+        "Kinguin": 31.68,
         "LapakGaming": 30.0,
-        "Eneba": 32.89
+        "Eneba": 33.01
       },
       "GoCash Game Card USD 20 (Global)": {
         "G2G": 18.91,
         "OG": 18.35,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 21.17,
+        "Kinguin": 21.24,
         "LapakGaming": 20.0,
-        "Eneba": 21.62
+        "Eneba": 21.72
       },
       "GoCash Game Card USD 15 (Global)": {
         "G2G": 14.17,
         "OG": 13.76,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 15.9,
-        "Eneba": 16.17
+        "Kinguin": 16.18,
+        "Eneba": 16.24
       },
       "GoCash Game Card USD 10 (Global)": {
         "G2G": 9.45,
         "OG": 9.17,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 10.92,
+        "Kinguin": 10.71,
         "LapakGaming": 10.0,
-        "Eneba": 11.26
+        "Eneba": 11.31
       },
       "GoCash Game Card USD 5 (Global)": {
-        "G2G": 0.97,
+        "G2G": 0.98,
         "OG": 4.59,
         "G2A": "N/A",
         "Seagm": "N/A",
-        "Kinguin": 5.4,
+        "Kinguin": 5.42,
         "LapakGaming": 5.0
       }
     },
@@ -2248,31 +2263,31 @@
         "G2G": 529.0,
         "OG": 506.51,
         "G2A": "N/A",
-        "Kinguin": 539.38,
+        "Kinguin": 460.2,
         "MooGold": 517.4
       },
       "Amazon Gift Card USD 150 (US)": {
         "G2G": 177.61,
         "G2A": "N/A",
-        "Kinguin": 162.86
+        "Kinguin": 146.38
       },
       "Amazon Gift Card USD 75 (US)": {
         "G2G": 77.99,
         "G2A": "N/A",
-        "Kinguin": 80.55,
+        "Kinguin": 82.62,
         "Eneba": "N/A"
       },
       "Amazon Gift Card USD 35 (US)": {
-        "G2G": 34.5,
+        "G2G": 25.3,
         "OG": 35.46,
         "G2A": "N/A",
-        "Kinguin": 39.92,
+        "Kinguin": 38.56,
         "Eneba": "N/A"
       },
       "Amazon Gift Card USD 30 (US)": {
         "G2G": 25.0,
         "G2A": "N/A",
-        "Kinguin": 32.46,
+        "Kinguin": 33.57,
         "Eneba": "N/A"
       },
       "Amazon Gift Card USD 25 (US)": {
@@ -2280,7 +2295,7 @@
         "OG": 25.33,
         "G2A": "N/A",
         "Seagm": 25.25,
-        "Kinguin": 26.98,
+        "Kinguin": 25.83,
         "Eneba": "N/A",
         "MooGold": 25.88
       },
@@ -2289,75 +2304,75 @@
         "OG": 20.26,
         "G2A": "N/A",
         "Seagm": 20.1,
-        "Kinguin": 21.54,
-        "Eneba": 18.63,
+        "Kinguin": 20.17,
+        "Eneba": 18.68,
         "MooGold": 20.7
       },
       "Amazon Gift Card USD 15 (US)": {
         "G2G": 14.99,
         "OG": 15.2,
         "G2A": "N/A",
-        "Kinguin": 14.54,
+        "Kinguin": 14.74,
         "Eneba": 16.26,
         "MooGold": 15.53
       },
       "Amazon Gift Card USD 10 (US)": {
-        "G2G": 9.89,
+        "G2G": 10.92,
         "OG": 10.13,
         "G2A": "N/A",
         "Seagm": 10.1,
-        "Kinguin": 9.98,
+        "Kinguin": 11.16,
         "Eneba": 10.48,
         "MooGold": 10.35
       }
     },
     "NCsoft NCoin": {
       "NCSOFT NCoin Card 10,000": {
-        "G2G": 101.28,
-        "OG": 99.19,
+        "G2G": 101.61,
+        "OG": 99.51,
         "G2A": "N/A",
         "Seagm": 97.0,
-        "Kinguin": 98.59,
-        "Eneba": 106.45
+        "Kinguin": 99.12,
+        "Eneba": 109.31
       },
       "NCSOFT NCoin Card 5,000": {
-        "G2G": 50.63,
-        "OG": 49.59,
+        "G2G": 50.79,
+        "OG": 49.75,
         "G2A": "N/A",
         "Seagm": 48.5,
-        "Kinguin": 51.64,
-        "Eneba": 53.98
+        "Kinguin": 44.72,
+        "Eneba": 53.38
       },
       "NCSOFT NCoin Card 2,000": {
-        "G2G": 20.73,
-        "OG": 20.31,
+        "G2G": 20.8,
+        "OG": 20.37,
         "G2A": "N/A",
         "Seagm": 20.86,
-        "Kinguin": 22.42,
-        "Eneba": 21.97
+        "Kinguin": 22.54,
+        "Eneba": 22.57
       },
       "NCSOFT NCoin Card 1,000": {
-        "G2G": 10.55,
-        "OG": 10.34,
+        "G2G": 10.58,
+        "OG": 10.37,
         "Seagm": 10.9,
-        "Kinguin": 13.26,
+        "Kinguin": 13.33,
         "Eneba": 12.71
       },
       "NCSOFT NCoin Card 500": {
-        "G2G": 5.32,
-        "OG": 5.21,
+        "G2G": 5.34,
+        "OG": 5.23,
         "G2A": "N/A",
         "Seagm": 5.65,
-        "Kinguin": 5.81,
-        "Eneba": 6.06
+        "Kinguin": 5.84,
+        "Eneba": 6.12
       }
     },
     "Valorant": {
       "Valorant 11,000 Points  (Global)": {
-        "G2G": 52.0
+        "G2G": 51.51
       },
       "Valorant 5,350 Points (Global)": {
-        "G2G": 36.0
+        "G2G": 22.0
       },
       "Valorant 3,650 Points (Global)": {
         "G2G": 29.49
@@ -2366,27 +2381,27 @@
         "G2G": 16.48
       },
       "Valorant 1,000 Points (Global)": {
-        "G2G": 8.94
+        "G2G": 5.0
       },
       "Valorant 475 Points (Global)": {
-        "G2G": 4.36
+        "G2G": 4.21
       }
     },
     "Gate.io": {
       "Gate.io Gift Cards USDT 50 (Global)": {
-        "Eneba": 57.62,
-        "OG": 52.38
+        "Eneba": 57.84,
+        "OG": 52.33
       },
       "Gate.io Gift Cards USDT 25 (Global)": {
-        "Eneba": 26.21,
-        "OG": 26.2
+        "Eneba": 28.92,
+        "OG": 26.17
       },
       "Gate.io Gift Cards USDT 10 (Global)": {
-        "Eneba": 12.1,
-        "OG": 10.48
+        "Eneba": 13.68,
+        "OG": 10.47
       },
       "Gate.io Gift Cards USDT 5 (Global)": {
-        "Eneba": 5.26,
+        "Eneba": 5.76,
         "OG": 5.24
       },
       "Gate.io Gift Cards USDC 1,000 (Global)": {
@@ -2394,48 +2409,48 @@
         "OG": "N/A"
       },
       "Gate.io Gift Cards USDC 500 (Global)": {
-        "Eneba": 624.97,
-        "OG": 523.83
+        "Eneba": 625.01,
+        "OG": 523.27
       },
       "Gate.io Gift Cards USDC 250 (Global)": {
         "Eneba": 263.35,
-        "OG": 261.92
+        "OG": 261.64
       },
       "Gate.io Gift Cards USDC 100 (Global)": {
-        "Eneba": 104.86,
-        "OG": 104.77
+        "Eneba": 108.39,
+        "OG": 104.65
       },
       "Gate.io Gift Cards USDC 50 (Global)": {
-        "Eneba": 57.62,
-        "OG": 52.38
+        "Eneba": 57.84,
+        "OG": 52.33
       },
       "Gate.io Gift Cards USDC 25 (Global)": {
-        "Eneba": 27.38,
-        "OG": 26.2
+        "Eneba": 28.92,
+        "OG": 26.17
       },
       "Gate.io Gift Cards USDC 10 (Global)": {
         "Eneba": 12.08,
-        "OG": 10.48
+        "OG": 10.47
       },
       "Gate.io Gift Cards USDC 5 (Global)": {
-        "Eneba": 5.26,
+        "Eneba": 5.76,
         "OG": 5.24
       },
       "Gate.io Gift Cards USDT 1,000 (Global)": {
         "Eneba": 1250.0,
-        "OG": 1047.67
+        "OG": 1046.54
       },
       "Gate.io Gift Cards USDT 500 (Global)": {
         "Eneba": 621.74,
-        "OG": 523.83
+        "OG": 523.27
       },
       "Gate.io Gift Cards USDT 250 (Global)": {
-        "Eneba": 263.35,
-        "OG": 261.92
+        "Eneba": 264.38,
+        "OG": 261.64
       },
       "Gate.io Gift Cards USDT 100 (Global)": {
-        "Eneba": 106.05,
-        "OG": 104.77
+        "Eneba": 108.39,
+        "OG": 104.65
       }
     },
     "Eudemons Online": {
@@ -2478,13 +2493,13 @@
     "PUBG Mobile": {
       "PUBG Mobile 30,000 + 10,500 UC (Global)": {
         "MooGold": 0.22,
-        "Eneba": 459.96,
+        "Eneba": 460.74,
         "Codashop": "N/A",
         "Unipin": 499.5,
         "LapakGaming": 446.96,
         "OG": 456.11,
         "Seagm": 445.0,
-        "G2G": 467.22
+        "G2G": 467.23
       },
       "PUBG Mobile 24,000 + 8,400 UC (Global)": {
         "MooGold": 0.22,
@@ -2494,11 +2509,11 @@
         "LapakGaming": 357.57,
         "OG": 364.88,
         "Seagm": 356.0,
-        "G2G": 373.77
+        "G2G": 373.78
       },
       "PUBG Mobile 12,000 + 4,200 UC (Global)": {
         "MooGold": 0.22,
-        "Eneba": 183.38,
+        "Eneba": 184.27,
         "Codashop": "N/A",
         "Unipin": 199.8,
         "LapakGaming": 178.79,
@@ -2508,23 +2523,23 @@
       },
       "PUBG Mobile 6,000 + 2,100 UC (Global)": {
         "MooGold": 90.47,
-        "Eneba": 90.75,
+        "Eneba": 91.23,
         "Codashop": "N/A",
         "Unipin": 99.9,
         "LapakGaming": 93.71,
         "OG": 91.21,
         "Seagm": 89.0,
-        "G2G": 92.01
+        "G2G": 92.52
       },
       "PUBG Mobile 3,000 + 850 UC (Global)": {
         "MooGold": 45.23,
-        "Eneba": 49.71,
+        "Eneba": 48.55,
         "Codashop": "N/A",
         "Unipin": 49.95,
         "LapakGaming": 46.85,
         "OG": 45.6,
         "Seagm": 44.5,
-        "G2G": 46.66
+        "G2G": 46.67
       },
       "PUBG Mobile 600 + 60 UC (Global)": {
         "MooGold": 9.04,
@@ -2534,14 +2549,14 @@
         "LapakGaming": 8.97,
         "OG": 9.11,
         "Seagm": 8.9,
-        "G2G": 9.17
+        "G2G": 9.2
       },
       "PUBG Mobile 18,000 + 6,300 UC (Global)": {
         "G2G": 280.34,
         "OG": 273.66,
         "Seagm": 267.0,
         "MooGold": 0.22,
-        "Eneba": 276.44,
+        "Eneba": 276.43,
         "Unipin": 299.7,
         "Codashop": "N/A",
         "LapakGaming": 268.17
@@ -2550,7 +2565,7 @@
         "G2G": 21.0,
         "OG": 22.79,
         "Seagm": 22.25,
-        "Eneba": 22.15,
+        "Eneba": 22.24,
         "MooGold": 22.61,
         "Unipin": 24.98,
         "Codashop": "N/A",
@@ -2596,37 +2611,37 @@
       },
       "Bigo Live 10,000 Diamonds (Global)": {
         "MooGold": 0.04,
-        "LapakGaming": 198.64,
+        "LapakGaming": 200.0,
         "Seagm": 198.87,
         "OG": 201.13,
-        "G2G": 181.95
+        "G2G": 182.97
       },
       "Bigo Live 5,000 Diamonds (Global)": {
         "MooGold": 0.04,
-        "LapakGaming": 99.32,
+        "LapakGaming": 100.0,
         "Seagm": 100.56,
         "OG": 100.56,
-        "G2G": 92.11
+        "G2G": 92.63
       },
       "Bigo Live 3,000 Diamonds (Global)": {
         "MooGold": 0.04,
         "LapakGaming": 10.0,
         "Seagm": 60.34,
         "OG": 60.33,
-        "G2G": 59.48
+        "G2G": 59.14
       },
       "Bigo Live 2,000 Diamonds (Global)": {
-        "MooGold": 36.2,
-        "LapakGaming": 40.15,
+        "MooGold": 36.04,
+        "LapakGaming": 40.43,
         "OG": 52.13,
         "Seagm": 39.78
       },
       "Bigo Live 1,000 Diamonds (Global)": {
-        "MooGold": 18.1,
-        "LapakGaming": 19.89,
+        "MooGold": 18.02,
+        "LapakGaming": 20.03,
         "OG": 20.11,
         "Seagm": 19.89,
-        "G2G": 18.42
+        "G2G": 18.53
       },
       "Bigo Live 40,000 Diamonds (Global)": {
         "OG": 1042.55,
@@ -2638,7 +2653,7 @@
         "Seagm": 603.41,
         "MooGold": 0.04,
         "OG": "N/A",
-        "LapakGaming": 596.93
+        "LapakGaming": 601.02
       },
       "Bigo Live 4,000 Diamonds (Global)": {
         "OG": 104.26,
@@ -2654,18 +2669,18 @@
       },
       "Bigo Live 500 Diamonds (Global)": {
         "Seagm": 9.94,
-        "MooGold": 9.05,
-        "LapakGaming": 10.04,
+        "MooGold": 9.01,
+        "LapakGaming": 10.1,
         "OG": "N/A"
       },
       "Bigo Live 200 Diamonds (Global)": {
         "OG": 5.21,
         "Seagm": 4.01,
-        "MooGold": 3.62,
-        "LapakGaming": 4.02
+        "MooGold": 3.6,
+        "LapakGaming": 4.04
       },
       "Bigo Live 100 Diamonds (Global)": {
-        "MooGold": 1.81,
+        "MooGold": 1.8,
         "Seagm": 1.99,
         "OG": "N/A",
         "LapakGaming": 10.0
@@ -2679,29 +2694,29 @@
     },
     "Netflix": {
       "Netflix USD100 Gift Card (US)": {
-        "MooGold": 3.64,
-        "Eneba": 70.47,
+        "MooGold": 3.68,
+        "Eneba": 70.75,
         "Seagm": 99.99,
-        "G2G": 119.39,
+        "G2G": 119.33,
         "OG": 99.04
       },
       "Netflix USD50 Gift Card (US)": {
         "MooGold": 53.04,
-        "Eneba": 45.71,
+        "Eneba": 45.63,
         "Seagm": 50.0,
-        "G2G": 63.3,
+        "G2G": 63.25,
         "OG": 49.52
       },
       "Netflix Gift Card USD 25 (US)": {
-        "MooGold": 3.64,
-        "Eneba": 27.07,
+        "MooGold": 3.68,
+        "Eneba": 27.03,
         "Seagm": 25.22,
-        "G2G": 27.11,
+        "G2G": 27.02,
         "OG": 25.16
       },
       "Netflix Gift Card USD 20 (US)": {
-        "MooGold": 3.64,
-        "Eneba": 18.65,
+        "MooGold": 3.68,
+        "Eneba": 18.73,
         "Seagm": 20.07,
         "G2G": 21.92,
         "OG": 20.02
@@ -2709,7 +2724,7 @@
       "Netflix Gift Card USD 15 (US)": {
         "Seagm": 16.19,
         "MooGold": 15.6,
-        "Eneba": 14.72
+        "Eneba": 14.8
       }
     },
     "Viettel": {
@@ -2722,13 +2737,13 @@
         "Eneba": "N/A",
         "OG": 19.41,
         "Seagm": "N/A",
-        "G2G": 25.62
+        "G2G": 25.7
       },
       "Viettel (Global) 300,000": {
         "Eneba": "N/A",
         "OG": 11.65,
         "Seagm": "N/A",
-        "G2G": 15.37
+        "G2G": 15.42
       },
       "Viettel (Global) 200,000": {
         "Eneba": "N/A",
@@ -2739,13 +2754,13 @@
         "Eneba": "N/A",
         "OG": 3.88,
         "Seagm": "N/A",
-        "G2G": 5.91
+        "G2G": 5.93
       },
       "Viettel (Global) 50,000": {
         "Eneba": "N/A",
         "OG": 1.94,
         "Seagm": "N/A",
-        "G2G": 2.96
+        "G2G": 2.97
       },
       "Viettel (Global) 30,000": {
         "Eneba": "N/A",
@@ -2757,13 +2772,13 @@
       "Vinaphone (Global) 500000 Code": {
         "Eneba": 22.72,
         "OG": 19.24,
-        "Seagm": 19.34,
+        "Seagm": 19.32,
         "G2G": 29.0
       },
       "Vinaphone (Global) 300000 Code": {
         "Eneba": 13.64,
         "OG": 11.55,
-        "Seagm": 11.6,
+        "Seagm": 11.59,
         "G2G": 23.0
       },
       "Vinaphone (Global) 200000 Code": {
@@ -2775,7 +2790,7 @@
       "Vinaphone (Global) 100000 Code": {
         "Eneba": 4.55,
         "OG": 3.85,
-        "Seagm": 3.87,
+        "Seagm": 3.86,
         "G2G": 9.08
       },
       "Vinaphone (Global) 50000 Code": {
@@ -2792,26 +2807,26 @@
     },
     "Indosat": {
       "Indosat Ooredoo Hutchison Gift Card IDR 200,000 (ID)": {
-        "Eneba": 3.1,
-        "OG": 12.48,
-        "Seagm": 12.35,
-        "G2G": 12.84
+        "Eneba": 3.12,
+        "OG": 12.55,
+        "Seagm": 12.42,
+        "G2G": 12.92
       },
       "Indosat Ooredoo Hutchison Gift Card IDR 150,000 (ID)": {
-        "Eneba": 3.1,
-        "OG": 9.36,
-        "Seagm": 9.27
+        "Eneba": 3.12,
+        "OG": 9.41,
+        "Seagm": 9.33
       },
       "Indosat Ooredoo Hutchison Gift Card IDR 100,000 (ID)": {
-        "Eneba": 7.12,
-        "OG": 6.24,
-        "Seagm": 6.18,
-        "G2G": 6.44
+        "Eneba": 7.14,
+        "OG": 6.27,
+        "Seagm": 6.22,
+        "G2G": 6.48
       },
       "Indosat Ooredoo Hutchison Gift Card IDR 50,000 (ID)": {
-        "Eneba": 3.1,
-        "OG": 3.12,
-        "Seagm": 3.09
+        "Eneba": 3.12,
+        "OG": 3.14,
+        "Seagm": 3.11
       }
     },
     "Riot Points": {
@@ -2824,12 +2839,12 @@
         "G2G": 139.99
       },
       "Riot Points Gift Card TRY 2,450 (TR)": {
-        "MooGold": 50.06,
+        "MooGold": 50.0,
         "Codashop": "N/A",
         "Unipin": "N/A",
         "OG": 29.43,
-        "Seagm": 52.75,
-        "G2G": 54.27
+        "Seagm": 52.68,
+        "G2G": 54.75
       },
       "Riot Points Gift Card TRY 1,400 (TR)": {
         "MooGold": 0.6,
@@ -2837,22 +2852,22 @@
         "Unipin": "N/A",
         "OG": 29.43,
         "Seagm": "N/A",
-        "G2G": 35.42
+        "G2G": 35.54
       },
       "Riot Points Gift Card TRY 850 (TR)": {
-        "MooGold": 17.37,
+        "MooGold": 17.35,
         "Codashop": "N/A",
         "Unipin": "N/A",
         "OG": 29.43,
-        "Seagm": 18.31,
+        "Seagm": 18.28,
         "G2G": 19.17
       },
       "Riot Points Gift Card TRY 500 (TR)": {
-        "MooGold": 10.22,
+        "MooGold": 10.2,
         "Codashop": "N/A",
         "Unipin": "N/A",
         "OG": 29.43,
-        "Seagm": 10.78
+        "Seagm": 10.76
       },
       "Riot Points Gift Card EUR 100": {
         "MooGold": 0.6,
@@ -2860,7 +2875,7 @@
         "Unipin": "N/A",
         "OG": 29.43,
         "Seagm": "N/A",
-        "G2G": 90.0
+        "G2G": 105.0
       },
       "Riot Points Gift Card EUR 50": {
         "MooGold": 0.6,
@@ -2868,7 +2883,7 @@
         "Unipin": "N/A",
         "OG": 29.43,
         "Seagm": "N/A",
-        "G2G": 48.0
+        "G2G": 69.61
       },
       "Riot Points Gift Card EUR 25": {
         "MooGold": 0.6,
@@ -2884,7 +2899,7 @@
         "Unipin": "N/A",
         "OG": 28.84,
         "Seagm": "N/A",
-        "G2G": 28.31
+        "G2G": 29.7
       },
       "Riot Points Gift Card EUR 10": {
         "MooGold": 0.6,
@@ -2896,7 +2911,7 @@
     },
     "Paypal Rewarble": {
       "Paypal Rewarble Gift Card USD 100 (Global)": {
-        "Eneba": 112.5,
+        "Eneba": 112.51,
         "OG": 105.04,
         "Seagm": 106.47,
         "G2G": 108.21
@@ -2908,10 +2923,10 @@
         "G2G": 64.93
       },
       "Paypal Rewarble Gift Card USD 50 (Global)": {
-        "Eneba": 56.25,
+        "Eneba": 56.26,
         "OG": 52.52,
         "Seagm": 53.23,
-        "G2G": 54.11
+        "G2G": 47.99
       },
       "Paypal Rewarble Gift Card USD 30 (Global)": {
         "Eneba": 33.75,
@@ -2928,14 +2943,14 @@
     },
     "Visa Rewarble": {
       "Visa Rewarble Gift Card USD 250 (Global)": {
-        "Eneba": 281.25,
+        "Eneba": 281.27,
         "OG": "N/A",
-        "G2G": 314.16
+        "G2G": 314.46
       },
       "Visa Rewarble Gift Card USD 200 (Global)": {
         "Eneba": "N/A",
         "OG": "N/A",
-        "G2G": 240.91
+        "G2G": 241.69
       },
       "Visa Rewarble Gift Card USD 100 (Global)": {
         "Eneba": 112.51,
@@ -2945,10 +2960,10 @@
       "Visa Rewarble Gift Card USD 20 (Global)": {
         "Eneba": "N/A",
         "OG": "N/A",
-        "G2G": 23.31
+        "G2G": 23.39
       },
       "Visa Rewarble Gift Card USD 450 (Global)": {
-        "G2G": 542.15,
+        "G2G": 543.9,
         "Eneba": "N/A",
         "OG": "N/A"
       }
@@ -2956,124 +2971,124 @@
     "Touch ‘n Go": {
       "Touch ‘n Go Pin MYR 500 (MY)": {
         "MooGold": 0.12,
-        "Eneba": 151.8,
-        "OG": 123.87,
-        "Seagm": 127.48,
-        "G2G": 133.77
+        "Eneba": 150.05,
+        "OG": 125.35,
+        "Seagm": 129.09,
+        "G2G": 133.99
       },
       "Touch ‘n Go Pin MYR 200 (MY)": {
         "MooGold": 49.78,
-        "Eneba": 59.25,
-        "OG": 49.55,
-        "Seagm": 50.99,
-        "G2G": 53.51
+        "Eneba": 59.34,
+        "OG": 50.14,
+        "Seagm": 51.63,
+        "G2G": 53.99
       },
       "Touch ‘n Go Pin MYR 150 (MY)": {
         "MooGold": 37.34,
         "Eneba": "N/A",
-        "OG": 37.16,
-        "Seagm": 38.24,
+        "OG": 37.61,
+        "Seagm": 38.73,
         "G2G": 39.99
       },
       "Touch ‘n Go Pin MYR 100 (MY)": {
         "MooGold": 24.89,
-        "Eneba": 29.84,
-        "OG": 24.77,
-        "Seagm": 25.5,
-        "G2G": 26.75
+        "Eneba": 29.98,
+        "OG": 25.07,
+        "Seagm": 25.82,
+        "G2G": 26.99
       },
       "Touch ‘n Go Pin MYR 50 (MY)": {
         "MooGold": 12.45,
         "Eneba": 15.25,
-        "OG": 12.39,
-        "Seagm": 12.75,
-        "G2G": 13.38
+        "OG": 12.54,
+        "Seagm": 12.91,
+        "G2G": 13.54
       },
       "Touch ‘n Go Pin MYR 30 (MY)": {
         "MooGold": 7.47,
         "Eneba": "N/A",
-        "OG": 7.43,
-        "Seagm": 7.65,
-        "G2G": 8.28
+        "OG": 7.52,
+        "Seagm": 7.75,
+        "G2G": 8.32
       },
       "Touch ‘n Go Pin MYR 10 (MY)": {
         "MooGold": 2.49,
-        "Eneba": 3.4,
-        "OG": 2.48,
-        "Seagm": 2.55,
-        "G2G": 2.68
+        "Eneba": 3.34,
+        "OG": 2.51,
+        "Seagm": 2.58,
+        "G2G": 2.71
       }
     },
     "Paypal Wallet": {
       "Paypal Wallet Top Up EUR 200 (Global)": {
-        "Eneba": 250.01,
-        "G2G": 231.87
+        "Eneba": 250.0,
+        "G2G": 232.62
       },
       "Paypal Wallet Top Up EUR 400 (Global)": {
         "Eneba": "N/A"
       },
       "Paypal Wallet Top Up EUR 100 (Global)": {
         "Eneba": 125.01,
-        "G2G": 120.22
+        "G2G": 120.61
       },
       "Paypal Wallet Top Up USD 100 (Global)": {
         "Eneba": 125.0
       },
       "Paypal Wallet Top Up EUR 50 (Global)": {
-        "Eneba": 70.31,
-        "G2G": 63.51
+        "Eneba": 71.89,
+        "G2G": 63.7
       }
     },
     "Adobe": {
       "Adobe Subscription 1 Month Account": {
         "Eneba": 118.96,
-        "G2G": 4.98
+        "G2G": 3.99
       },
       "Adobe Subscription 3 Months Account": {
         "Eneba": 17.74,
-        "G2G": 7.26
+        "G2G": 8.99
       },
       "Adobe Creative Cloud Subscription 1 Month - Private Account (Global)": {
         "Eneba": 118.96,
-        "G2G": 4.99
+        "G2G": 3.99
       },
       "Adobe Creative Cloud Subscription 1 Month - Shared Account (Global)": {
         "Eneba": 118.96,
-        "G2G": 5.8
+        "G2G": 20.0
       },
       "Adobe Subscription 2 Months Account": {
-        "Eneba": 118.96
+        "Eneba": 22.25
       }
     },
     "U Mobile": {
       "U Mobile Prepaid MYR 100 (MY)": {
-        "Eneba": 22.12,
-        "OG": 24.77,
+        "Eneba": 22.13,
+        "OG": 25.07,
         "Seagm": "N/A",
-        "G2G": 25.17
+        "G2G": 25.47
       },
       "U Mobile Prepaid MYR 50 (MY)": {
         "Eneba": 11.17,
-        "OG": 12.39,
-        "Seagm": 12.32,
-        "G2G": 12.58
+        "OG": 12.54,
+        "Seagm": 12.48,
+        "G2G": 12.73
       },
       "U Mobile Prepaid MYR 30 (MY)": {
-        "Eneba": 6.69,
-        "OG": 7.43,
-        "Seagm": 7.39,
-        "G2G": 7.55
+        "Eneba": 6.7,
+        "OG": 7.52,
+        "Seagm": 7.49,
+        "G2G": 7.64
       },
       "U Mobile Prepaid MYR 15 (MY)": {
         "Eneba": 3.18,
-        "OG": 3.87,
+        "OG": 3.92,
         "Seagm": "N/A",
-        "G2G": 3.91
+        "G2G": 3.96
       },
       "U Mobile Prepaid MYR 10 (MY)": {
         "Eneba": 2.26,
-        "OG": 2.48,
-        "Seagm": 2.46
+        "OG": 2.51,
+        "Seagm": 2.5
       }
     },
     "Shahid": {
@@ -3094,81 +3109,81 @@
     },
     "HOTLINK": {
       "HOTLINK MYR 100 (MY)": {
-        "OG": 24.77,
-        "Seagm": 24.77
+        "OG": 25.07,
+        "Seagm": 25.08
       },
       "HOTLINK MYR 60 (MY)": {
-        "OG": 14.86,
-        "Seagm": 14.86,
-        "G2G": 15.26
+        "OG": 15.04,
+        "Seagm": 15.05,
+        "G2G": 15.44
       },
       "HOTLINK MYR 30 (MY)": {
-        "OG": 7.43,
-        "Seagm": 7.43,
-        "G2G": 7.63
+        "OG": 7.52,
+        "Seagm": 7.52,
+        "G2G": 7.72
       },
       "HOTLINK MYR 10 (MY)": {
-        "OG": 2.48,
-        "Seagm": 2.48,
-        "G2G": 2.54
+        "OG": 2.51,
+        "Seagm": 2.51,
+        "G2G": 2.57
       },
       "HOTLINK MYR 5 (MY)": {
-        "OG": 1.24,
-        "Seagm": 1.24,
-        "G2G": 1.27
+        "OG": 1.25,
+        "Seagm": 1.25,
+        "G2G": 1.29
       }
     },
     "Digi": {
       "Digi Perpaid RM100 Voucher (MY)": {
-        "OG": 24.77,
-        "Seagm": 24.65,
-        "G2G": 25.55
+        "OG": 25.07,
+        "Seagm": 24.96,
+        "G2G": 25.86
       },
       "Digi Perpaid RM50 Voucher (MY)": {
-        "OG": 12.39,
-        "Seagm": 12.32,
-        "G2G": 12.78
+        "OG": 12.54,
+        "Seagm": 12.48,
+        "G2G": 12.93
       },
       "Digi Perpaid RM30 Voucher (MY)": {
-        "OG": 7.43,
-        "Seagm": 7.39,
-        "G2G": 7.67
+        "OG": 7.52,
+        "Seagm": 7.49,
+        "G2G": 7.76
       },
       "Digi Perpaid RM10 Voucher (MY)": {
-        "OG": 2.48,
-        "Seagm": 2.46,
-        "G2G": 2.56
+        "OG": 2.51,
+        "Seagm": 2.5,
+        "G2G": 2.59
       },
       "Digi Perpaid RM5 Voucher (MY)": {
-        "OG": 1.24,
-        "Seagm": 1.23
+        "OG": 1.25,
+        "Seagm": 1.25
       }
     },
     "PlayPark": {
       "PlayPark @Cash 200,000 (SG)": {
-        "OG": 155.79,
-        "Seagm": 158.38,
-        "G2G": 159.02
+        "OG": 156.09,
+        "Seagm": 158.71,
+        "G2G": 159.33
       },
       "PlayPark @Cash 100,000 (SG)": {
-        "OG": 77.89,
-        "Seagm": 79.19,
-        "G2G": 79.51
+        "OG": 78.05,
+        "Seagm": 79.35,
+        "G2G": 79.66
       },
       "PlayPark @Cash 80,000 (SG)": {
-        "OG": 62.32,
-        "Seagm": 63.35,
-        "G2G": 63.61
+        "OG": 62.44,
+        "Seagm": 63.48,
+        "G2G": 63.73
       },
       "PlayPark @Cash 50,000 (SG)": {
-        "OG": 38.95,
-        "Seagm": 39.6,
-        "G2G": 39.75
+        "OG": 39.02,
+        "Seagm": 39.68,
+        "G2G": 39.83
       },
       "PlayPark @Cash 30,000 (SG)": {
-        "OG": 23.37,
-        "Seagm": 23.76,
-        "G2G": 23.85
+        "OG": 23.41,
+        "Seagm": 23.81,
+        "G2G": 23.9
       }
     },
     "Voucherry": {
@@ -3190,7 +3205,7 @@
       },
       "Voucherry USD10 Gift Card (Global)": {
         "OG": 10.43,
-        "G2G": 10.74
+        "G2G": 10.75
       },
       "Voucherry USD20 Gift Card (Global)": {
         "G2G": 21.48,
@@ -3247,22 +3262,22 @@
       "抖音 50000抖币 (中国)": {
         "OG": 799.3,
         "Seagm": 783.33,
-        "G2G": 874.7
+        "G2G": 877.72
       },
       "抖音 30000抖币 (中国)": {
         "OG": 479.57,
         "Seagm": 469.99,
-        "G2G": 349.88
+        "G2G": 351.09
       },
       "抖音 5180抖币 (中国)": {
         "OG": 82.81,
         "Seagm": 81.15,
-        "G2G": 99.74
+        "G2G": 100.3
       },
       "抖音 2980抖币 (中国)": {
         "OG": 47.64,
         "Seagm": 46.69,
-        "G2G": 65.74
+        "G2G": 66.11
       },
       "抖音 100000抖币 (中国)": {
         "OG": 1598.6,
@@ -3309,13 +3324,13 @@
     },
     "ChatGPT": {
       "ChatGPT Business 2 Months - Private Account (Global)": {
-        "G2G": 23.99
+        "G2G": 19.99
       },
       "ChatGPT Pro 1 Month - Shared Account (Global)": {
-        "G2G": 4.0
+        "G2G": 1.7
       },
       "ChatGPT Pro 1 Month - Private Account (Global)": {
-        "G2G": 8.99
+        "G2G": 9.99
       }
     }
   }

@@ -1,8 +1,6 @@
 {
-  "ok": 1825,
-  "failed": 101,
-  "errors": [
-    "Kinguin https://www.kinguin.net/category/300049/steam-wallet-qar-400 :: TimeoutError"
-  ],
-  "elapsed_sec": 3320.8
+  "ok": 1839,
+  "failed": 102,
+  "errors": [],
+  "elapsed_sec": 3207.6
 }
